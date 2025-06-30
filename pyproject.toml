@@ -1,0 +1,18 @@
+[project]
+name = "alqac"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastembed>=0.7.1",
+    "jupyterlab>=4.4.4",
+    "llama-index>=0.12.44",
+    "llama-index-embeddings-huggingface>=0.5.5",
+    "llama-index-postprocessor-flag-embedding-reranker>=0.3.0",
+    "llama-index-vector-stores-qdrant>=0.6.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.0",
+    "sentence-transformers>=4.1.0",
+]
