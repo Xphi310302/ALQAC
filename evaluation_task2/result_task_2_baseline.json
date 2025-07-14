@@ -1,0 +1,3654 @@
+{
+  "evaluation": {
+    "accuracy": 0.7887517146776406,
+    "total_questions": 729,
+    "evaluated_questions": 729
+  },
+  "results": [
+    {
+      "question_id": "train_alqac25_1",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_2",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_3",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_4",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_5",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_6",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_7",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_8",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_9",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_10",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_11",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_12",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_13",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_14",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_15",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_16",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_17",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_18",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_19",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_20",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_21",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_22",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_23",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_24",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_25",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_26",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_27",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_28",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_29",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_30",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_31",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_32",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_33",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_34",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_35",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_36",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_37",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_38",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_39",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_40",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_41",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_42",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_43",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_44",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_45",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_46",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_47",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_48",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_49",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_50",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_51",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_52",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_53",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_54",
+      "predict": "C",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_55",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_56",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_57",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_58",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_59",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_60",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_61",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_62",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_63",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_64",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_65",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_66",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_67",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_68",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_69",
+      "predict": "A",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_70",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_71",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_72",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_73",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_74",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_75",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_76",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_77",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_78",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_79",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_80",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_81",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_82",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_83",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_84",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_85",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_86",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_87",
+      "predict": "D",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_88",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_89",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_90",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_91",
+      "predict": "10 ngày",
+      "gold": "10 ngày"
+    },
+    {
+      "question_id": "train_alqac25_92",
+      "predict": "cỡ 3 cm x 4 cm",
+      "gold": "3 cm x 4 cm"
+    },
+    {
+      "question_id": "train_alqac25_93",
+      "predict": "01 năm",
+      "gold": "1 năm"
+    },
+    {
+      "question_id": "train_alqac25_94",
+      "predict": "Trung tâm trọng tài có chức năng tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài",
+      "gold": "Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài."
+    },
+    {
+      "question_id": "train_alqac25_95",
+      "predict": "```answer\nSau khi sổ hộ khẩu hết hiệu lực, chứng minh nơi thường trú có thể thực hiện bằng cách sử dụng các giấy tờ sau:\n\n- Sổ tạm trú hoặc giấy tờ chứng minh nơi tạm trú;\n- Giấy tờ chứng minh nơi ở hiện tại, như giấy chứng nhận quyền sử dụng đất, giấy phép xây dựng, giấy tờ về nhà ở;\n- Giấy tờ chứng minh quan hệ với chủ hộ, như giấy khai sinh, giấy chứng nhận đăng ký kết hôn;\n- Giấy tờ chứng minh tình trạng hôn nhân, như giấy chứng nhận đăng ký kết hôn, giấy xác nhận tình trạng độc thân\n\nNgười dân có thể sử dụng các giấy tờ này để chứng minh nơi thường trú khi cần thiết, như khi đăng ký học tập, làm việc, hoặc khi cần chứng minh địa chỉ cư trú",
+      "gold": "Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia."
+    },
+    {
+      "question_id": "train_alqac25_96",
+      "predict": "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì cần phải đăng ký kết hôn",
+      "gold": "đăng ký kết hôn"
+    },
+    {
+      "question_id": "train_alqac25_97",
+      "predict": "Cán bộ quản lý giáo dục giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục",
+      "gold": "Cán bộ quản lý giáo dục"
+    },
+    {
+      "question_id": "train_alqac25_98",
+      "predict": "Ngân sách nhà nước giữ vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục",
+      "gold": "Ngân sách nhà nước"
+    },
+    {
+      "question_id": "train_alqac25_99",
+      "predict": "Bộ Văn hóa, Thể thao và Du lịch",
+      "gold": "Bộ Văn hóa, Thể thao và Du lịch"
+    },
+    {
+      "question_id": "train_alqac25_100",
+      "predict": "Chính phủ",
+      "gold": "Chính phủ"
+    },
+    {
+      "question_id": "train_alqac25_101",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_102",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_103",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_104",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_105",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_106",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_107",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_108",
+      "predict": "B",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_109",
+      "predict": "Từ đủ 16 tuổi đến 30 tuổi",
+      "gold": "từ đủ 16 đến 30 tuổi"
+    },
+    {
+      "question_id": "train_alqac25_110",
+      "predict": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "gold": "Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+    },
+    {
+      "question_id": "train_alqac25_111",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_112",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_113",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_114",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_115",
+      "predict": "Chính phủ",
+      "gold": "Chính phủ"
+    },
+    {
+      "question_id": "train_alqac25_116",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_117",
+      "predict": "C",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_118",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_119",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_120",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_121",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_122",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_123",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_124",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_125",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_126",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_127",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_128",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_129",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_130",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_131",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_132",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_133",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_134",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_135",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_136",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_137",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_138",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_139",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_140",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_141",
+      "predict": "B",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_142",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_143",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_144",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_145",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_146",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_147",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_148",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_149",
+      "predict": "Từ đủ 15 tuổi trở lên",
+      "gold": "Từ đủ 15 tuổi trở lên"
+    },
+    {
+      "question_id": "train_alqac25_150",
+      "predict": "Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản theo quy định của pháp luật về lao động và bảo hiểm xã hội từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi",
+      "gold": "Từ thời điểm nhận \ncon cho đến khi con \nđủ 06 tháng tuổi"
+    },
+    {
+      "question_id": "train_alqac25_151",
+      "predict": "hòa giải ở cơ sở",
+      "gold": "Hòa giải"
+    },
+    {
+      "question_id": "train_alqac25_152",
+      "predict": "phát triển bản thân và nâng cao chất lượng cuộc sống",
+      "gold": "Phát triển bản thân và nâng cao chất lượng cuộc sống"
+    },
+    {
+      "question_id": "train_alqac25_153",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_154",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_155",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_156",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_157",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_158",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_159",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_160",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_161",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_162",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_163",
+      "predict": "D",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_164",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_165",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_166",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_167",
+      "predict": "A",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_168",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_169",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_170",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_171",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_172",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_173",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_174",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_175",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_176",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_177",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_178",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_179",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_180",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_181",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_182",
+      "predict": "C",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_183",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_184",
+      "predict": "C",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_185",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_186",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_187",
+      "predict": "Nơi cư trú của anh Nguyễn Văn C là Tuyên Quang, vì sau khi bố mẹ ly dị, anh đã sống cùng mẹ tại Tuyên Quang và đến nay vẫn đang ở đó",
+      "gold": "Tuyên Quang"
+    },
+    {
+      "question_id": "train_alqac25_188",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_189",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_190",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_191",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_192",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_193",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_194",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_195",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_196",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_197",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_198",
+      "predict": "D",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_199",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_200",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_201",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_202",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_203",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_204",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_205",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_206",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_207",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_208",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_209",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_210",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_211",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_212",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_213",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_214",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_215",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_216",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_217",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_218",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_219",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_220",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_221",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_222",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_223",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_224",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_225",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_226",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_227",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_228",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_229",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_230",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_231",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_232",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_233",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_234",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_235",
+      "predict": "Đến hết cuộc đời của người hưởng dụng đầu tiên",
+      "gold": "Hết cuộc đời của người hưởng dụng đầu tiên"
+    },
+    {
+      "question_id": "train_alqac25_236",
+      "predict": "01 tháng",
+      "gold": "1 năm"
+    },
+    {
+      "question_id": "train_alqac25_237",
+      "predict": "06 tháng",
+      "gold": "6 tháng"
+    },
+    {
+      "question_id": "train_alqac25_238",
+      "predict": "Tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử - văn hoá theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định",
+      "gold": "Tài sản tìm thấy có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định"
+    },
+    {
+      "question_id": "train_alqac25_239",
+      "predict": "2,5 mét trở lên",
+      "gold": "2,5 mét"
+    },
+    {
+      "question_id": "train_alqac25_240",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_241",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_242",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_243",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_244",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_245",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_246",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_247",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_248",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_249",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_250",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_251",
+      "predict": "A",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_252",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_253",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_254",
+      "predict": "B",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_255",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_256",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_257",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_258",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_259",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_260",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_261",
+      "predict": "Vụ án hành chính",
+      "gold": "Trường hợp người khởi kiện chỉ yêu cầu hủy giấy chứng nhận quyền sử dụng đất thì Tòa án phải tôn trọng “Quyền quyết định và tự định đoạt của người khởi kiện”. Theo đó thì Tòa án phải xem xét thụ lý, giải quyết vụ án theo quy định của Luật Tố tụng hành chính"
+    },
+    {
+      "question_id": "train_alqac25_262",
+      "predict": "Chánh án Tòa án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án; Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên",
+      "gold": "Chánh án tòa án, Thư kí tòa án, Thẩm phán, Kiểm sát viên, Luật sư chỉ là người bảo vệ quyền\nvà lợi ích của đương sự khi có yêu cầu,"
+    },
+    {
+      "question_id": "train_alqac25_263",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_264",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_265",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_266",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_267",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_268",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_269",
+      "predict": "Hành vi cản trở người phiên dịch thực hiện nhiệm vụ hoặc buộc người phiên dịch dịch không trung thực, không khách quan, không đúng nghĩa (điểm 6) và Hành vi cố ý dịch sai sự thật (điểm 8) và Hành vi không cử người tham gia Hội đồng định giá theo yêu cầu của Tòa án mà không có lý do chính đáng; không tham gia thực hiện nhiệm vụ của Hội đồng định giá mà không có lý do chính đáng (điểm 9) và Hành vi cản trở người tiến hành tố tụng xem xét, thẩm định tại chỗ, quyết định định giá, quyết định trưng cầu giám định hoặc xác minh, thu thập chứng cứ khác theo quy định của Luật này (điểm 7) được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án",
+      "gold": "Dịch sai sự thật"
+    },
+    {
+      "question_id": "train_alqac25_270",
+      "predict": "Theo quy định của pháp luật, nguyên tắc đối thoại trong vụ án hành chính được quy định như sau:\n\n- Bảo đảm công khai, dân chủ, tôn trọng ý kiến của đương sự;\n- Không được ép buộc các đương sự thực hiện việc giải quyết vụ án hành chính trái với ý chí của họ;\n- Nội dung đối thoại, kết quả đối thoại thành giữa các đương sự không trái pháp luật, trái đạo đức xã hội",
+      "gold": "Trong vụ án hành chính thì không có hòa giải mà tổ chức đối thoại để các đương sự thống nhất với nhau về việc giải quyết vụ án. Nguyên tắc đối thoại là bắt buộc. Trường hợp đối thoại thành thì Thẩm phán ra quyết định công nhận kết quả đối thoại thành, đình chỉ việc giải quyết vụ án. Quyết định này có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm."
+    },
+    {
+      "question_id": "train_alqac25_271",
+      "predict": "Những vụ án hành chính không tiến hành đối thoại được là những vụ án thuộc các trường hợp sau:\n- Người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt\n- Đương sự không thể tham gia đối thoại được vì có lý do chính đáng\n- Các bên đương sự thống nhất đề nghị không tiến hành đối thoại",
+      "gold": "Các bên đương sự đã được triệu tập lần thứ hai mà vẫn cố tình vắng mặt, hoặc không thể tham gia đối thoại, hoặc thống nhất không tiến hành đối thoại"
+    },
+    {
+      "question_id": "train_alqac25_272",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_273",
+      "predict": "B",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_274",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_275",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_276",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_277",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_278",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_279",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_280",
+      "predict": "A",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_281",
+      "predict": "A",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_282",
+      "predict": "Bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án của Tòa án cấp sơ thẩm",
+      "gold": "Viện trưởng viện kiểm sát cùng cấp và cấp trên có quyền kháng nghị bản án, quyết định tạm đình chỉ hay đình chỉ vụ án của Tòa án cấp sơ thẩm."
+    },
+    {
+      "question_id": "train_alqac25_283",
+      "predict": "Khi xem xét quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị, Hội đồng xét xử phúc thẩm có quyền:\n\na) Giữ nguyên quyết định của Tòa án cấp sơ thẩm;\n\nb) Sửa quyết định của Tòa án cấp sơ thẩm;\n\nc) Hủy quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để tiếp tục giải quyết vụ án",
+      "gold": "Giữ nguyên quyết định của Tòa án cấp sơ thẩm; sửa quyết định của Tòa án cấp sơ thẩm; hủy quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để tiếp tục giải quyết vụ án."
+    },
+    {
+      "question_id": "train_alqac25_284",
+      "predict": "Vụ án có đủ các điều kiện sau đây sẽ được giải quyết theo thủ tục rút gọn:\n\n- Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ;\n- Các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng;\n- Không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn",
+      "gold": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn."
+    },
+    {
+      "question_id": "train_alqac25_285",
+      "predict": "Nếu có yêu cầu của đương sự hoặc khi xét thấy cần thiết để đảm bảo quyền và lợi ích hợp pháp của đương sự",
+      "gold": "Phát sinh các tình tiết mới mà các đương sự không thống nhất và cần phải xác minh, thu thập thêm tài liệu, chứng cứ hoặc cần phải tiến hành giám định; cần phải định giá tài sản nếu các đương sự không thống nhất về giá; cần phải áp dụng biện pháp khẩn cấp tạm thời; phát sinh người có quyền lợi, nghĩa vụ liên quan; phát sinh yêu cầu độc lập; phát sinh đương sự cư trú ở nước ngoài mà cần phải thực hiện ủy thác tư pháp, trừ trường hợp quy định tại điểm c khoản 1 Điều này."
+    },
+    {
+      "question_id": "train_alqac25_286",
+      "predict": "Khi xem xét bản án, quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị, Thẩm phán có các quyền sau đây:\n\na) Giữ nguyên bản án, quyết định của Tòa án cấp sơ thẩm;\n\nb) Sửa bản án, quyết định của Tòa án cấp sơ thẩm;\n\nc) Hủy bản án, quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn;\n\nd) Hủy bản án sơ thẩm và đình chỉ giải quyết vụ án;\n\nđ) Đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm",
+      "gold": "Giữ nguyên bản án, quyết định của Tòa án cấp sơ thẩm; sửa bản án, quyết định của Tòa án cấp sơ thẩm;hủy bản án, quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn; hủy bản án sơ thẩm và đình chỉ giải quyết vụ án; đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm."
+    },
+    {
+      "question_id": "train_alqac25_287",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_288",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_289",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_290",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_291",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_292",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_293",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_294",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_295",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_296",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_297",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_298",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_299",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_300",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_301",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_302",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_303",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_304",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_305",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_306",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_307",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_308",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_309",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_310",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_311",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_312",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_313",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_314",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_315",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_316",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_317",
+      "predict": "D",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_318",
+      "predict": "D",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_319",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_320",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_321",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_322",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_323",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_324",
+      "predict": "Thông tin tồn tại dưới dạng bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra",
+      "gold": "bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra"
+    },
+    {
+      "question_id": "train_alqac25_325",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_326",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_327",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_328",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_329",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_330",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_331",
+      "predict": "C",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_332",
+      "predict": "A",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_333",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_334",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_335",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_336",
+      "predict": "Người có khó khăn trong nhận thức, làm chủ hành vi",
+      "gold": "Người mất năng lực hành vi dân sự"
+    },
+    {
+      "question_id": "train_alqac25_337",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_338",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_339",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_340",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_341",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_342",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_343",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_344",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_345",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_346",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_347",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_348",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_349",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_350",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_351",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_352",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_353",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_354",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_355",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_356",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_357",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_358",
+      "predict": "B",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_359",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_360",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_361",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_362",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_363",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_364",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_365",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_366",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_367",
+      "predict": "D",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_368",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_369",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_370",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_371",
+      "predict": "Khi thông tin thuộc bí mật nhà nước được giải mật thì công dân được tiếp cận theo quy định của Luật này",
+      "gold": "được giải mật"
+    },
+    {
+      "question_id": "train_alqac25_372",
+      "predict": "Thông tin về cuộc họp nội bộ của cơ quan nhà nước",
+      "gold": "nội bộ"
+    },
+    {
+      "question_id": "train_alqac25_373",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_374",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_375",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_376",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_377",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_378",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_379",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_380",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_381",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_382",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_383",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_384",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_385",
+      "predict": "```answer\nViện kiểm sát nhân dân có quyền hạn sau:\n- Trình công tố trong xét xử vụ án hình sự;\n- Kiểm sát việc giải quyết vụ việc dân sự, hôn nhân và gia đình, hành chính, kinh doanh thương mại, lao động của tòa án, trọng tài thương mại;\n- Kiểm sát việc thi hành án;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc giải quyết vụ việc dân sự, hôn nhân và gia đình, hành chính, kinh doanh thương mại, lao động của tòa án, trọng tài thương mại;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc thi hành án;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc xử lý người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi",
+      "gold": "Quyền công tố và kiểm sát hoạt động tư pháp."
+    },
+    {
+      "question_id": "train_alqac25_386",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_387",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_388",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_389",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_390",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_391",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_392",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_393",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_394",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_395",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_396",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_397",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_398",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_399",
+      "predict": "2 lần",
+      "gold": "2 kỳ 1 năm"
+    },
+    {
+      "question_id": "train_alqac25_400",
+      "predict": "Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước Cộng hoà xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại",
+      "gold": "chủ tịch nước"
+    },
+    {
+      "question_id": "train_alqac25_401",
+      "predict": "Quốc hội",
+      "gold": "Quốc hội"
+    },
+    {
+      "question_id": "train_alqac25_402",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_403",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_404",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_405",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_406",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_407",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_408",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_409",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_410",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_411",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_412",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_413",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_414",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_415",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_416",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_417",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_418",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_419",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_420",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_421",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_422",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_423",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_424",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_425",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_426",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_427",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_428",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_429",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_430",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_431",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_432",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_433",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_434",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_435",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_436",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_437",
+      "predict": "Sự cố môi trường",
+      "gold": "Sự cố môi trường"
+    },
+    {
+      "question_id": "train_alqac25_438",
+      "predict": "Phế liệu",
+      "gold": "phế liệu"
+    },
+    {
+      "question_id": "train_alqac25_439",
+      "predict": "Quan trắc môi trường",
+      "gold": "Quan trắc môi trường"
+    },
+    {
+      "question_id": "train_alqac25_440",
+      "predict": "Hạn ngạch phát thải khí nhà kính",
+      "gold": "Hạn ngạch phát thải khí nhà kính"
+    },
+    {
+      "question_id": "train_alqac25_441",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_442",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_443",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_444",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_445",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_446",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_447",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_448",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_449",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_450",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_451",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_452",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_453",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_454",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_455",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_456",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_457",
+      "predict": "C",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_458",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_459",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_460",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_461",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_462",
+      "predict": "B",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_463",
+      "predict": "B",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_464",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_465",
+      "predict": "B",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_466",
+      "predict": "Bên được thi hành phán quyết có quyền làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài",
+      "gold": "Bên được thi hành phán quyết trọng tài có thể làm đơn yêu cầu cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài."
+    },
+    {
+      "question_id": "train_alqac25_467",
+      "predict": "```answer\nTheo khoản 1 Điều 68 Luật Trọng tài thương mại 2010, các bên có quyền hủy yêu cầu phán quyết trọng tài trong các trường hợp sau:\n- Một trong các bên rút yêu cầu hoặc không tham gia phiên họp, không cung cấp tài liệu, chứng cứ mà không có lý do chính đáng\n- Có sự thay đổi cơ bản về nội dung vụ việc mà bên yêu cầu đã biết nhưng không thông báo cho Hội đồng trọng tài\n- Hội đồng trọng tài không có đủ thành viên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về số lượng thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về chuyên môn của thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về nguyên tắc, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về ngôn ngữ, địa điểm, thời gian trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về thời hiệu, thời hạn theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về trình tự, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của các bên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tham gia trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng",
+      "gold": "Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một bên có đủ căn cứ để chứng minh được rằng Hội đồng trọng tài đã ra phán quyết thuộc một trong những trường hợp quy định tại khoản 2 Điều 68 của Luật trọng tài thương mại, thì có quyền làm đơn gửi Toà án có thẩm quyền yêu cầu huỷ phán quyết trọng tài. Đơn yêu cầu hủy phán quyết trọng tài phải kèm theo các tài liệu, chứng cứ chứng minh cho yêu cầu hủy phán quyết trọng tài là có căn cứ và hợp pháp."
+    },
+    {
+      "question_id": "train_alqac25_468",
+      "predict": "Chuẩn bị phiên họp giải quyết tranh chấp bao gồm các nội dung sau:\n- Thời gian và địa điểm mở phiên họp do Hội đồng trọng tài quyết định\n- Giấy triệu tập tham dự phiên họp phải được gửi cho các bên chậm nhất 30 ngày trước ngày mở phiên họp",
+      "gold": "Trong trường hợp các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác, hội đồng trọng tài quyết định thời gian và địa điểm mở phiên họp. Giấy triệu tập tham dự phiên họp phải được gửi cho các bên chậm nhất 30 ngày trước ngày mở phiên họp."
+    },
+    {
+      "question_id": "train_alqac25_469",
+      "predict": "Bên yêu cầu triệu tập người làm chứng chịu hoặc do Hội đồng trọng tài phân bổ",
+      "gold": "Bên yêu cầu triệu tập người làm chứng hoặc hội đồng trọng tài phân bổ."
+    },
+    {
+      "question_id": "train_alqac25_470",
+      "predict": "Hồ sơ đăng ký tạm trú bao gồm:\n- Tờ khai thay đổi thông tin cư trú;\n- Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp",
+      "gold": "Tờ khai thay đổi thông tin cư trú; đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; giấy tờ, tài liệu chứng minh chỗ ở hợp pháp."
+    },
+    {
+      "question_id": "train_alqac25_471",
+      "predict": "Nội dung, thời gian hạn chế quyền tự do cư trú của công dân được quy định như sau:\n\n- Theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền\n- Theo quy định của luật có liên quan",
+      "gold": "Nội dung, thời gian hạn chế quyền tự do cư trú thực hiện theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền hoặc theo quy định của luật có liên quan."
+    },
+    {
+      "question_id": "train_alqac25_472",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_473",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_474",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_475",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_476",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_477",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_478",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_479",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_480",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_481",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_482",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_483",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_484",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_485",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_486",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_487",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_488",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_489",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_490",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_491",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_492",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_493",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_494",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_495",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_496",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_497",
+      "predict": "D",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_498",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_499",
+      "predict": "Cơ sở thực hiện hợp tác quốc tế về an ninh mạng bao gồm: tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi",
+      "gold": "Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi."
+    },
+    {
+      "question_id": "train_alqac25_500",
+      "predict": "Người nào có hành vi vi phạm quy định của Luật An ninh mạng thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",
+      "gold": "Tùy theo tính chất, mức độ vi phạm mà người có hành vi vi phạm quy định về an ninh mạng sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+      "question_id": "train_alqac25_501",
+      "predict": "Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",
+      "gold": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+      "question_id": "train_alqac25_502",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_503",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_504",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_505",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_506",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_507",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_508",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_509",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_510",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_511",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_512",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_513",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_514",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_515",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_516",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_517",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_518",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_519",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_520",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_521",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_522",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_523",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_524",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_525",
+      "predict": "01 năm",
+      "gold": "01 năm"
+    },
+    {
+      "question_id": "train_alqac25_526",
+      "predict": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "gold": "Bộ Nông nghiệp và Phát triển nông thôn"
+    },
+    {
+      "question_id": "train_alqac25_527",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_528",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_529",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_530",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_531",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_532",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_533",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_534",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_535",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_536",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_537",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_538",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_539",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_540",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_541",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_542",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_543",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_544",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_545",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_546",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_547",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_548",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_549",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_550",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_551",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_552",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_553",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_554",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_555",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_556",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_557",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_558",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_559",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_560",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_561",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_562",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_563",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_564",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_565",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_566",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_567",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_568",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_569",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_570",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_571",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_572",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_573",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_574",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_575",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_576",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_577",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_578",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_579",
+      "predict": "C",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_580",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_581",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_582",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_583",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_584",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_585",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_586",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_587",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_588",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_589",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_590",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_591",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_592",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_593",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_594",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_595",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_596",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_597",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_598",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_599",
+      "predict": "B",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_600",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_601",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_602",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_603",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_604",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_605",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_606",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_607",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_608",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_609",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_610",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_611",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_612",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_613",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_614",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_615",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_616",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_617",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_618",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_619",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_620",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_621",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_622",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_623",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_624",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_625",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_626",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_627",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_628",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_629",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_630",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_631",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_632",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_633",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_634",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_635",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_636",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_637",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_638",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_639",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_640",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_641",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_642",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_643",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_644",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_645",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_646",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_647",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_648",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_649",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_650",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_651",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_652",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_653",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_654",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_655",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_656",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_657",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_658",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_659",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_660",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_661",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_662",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_663",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_664",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_665",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_666",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_667",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_668",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_669",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_670",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_671",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_672",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_673",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_674",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_675",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_676",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_677",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_678",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_679",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_680",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_681",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_682",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_683",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_684",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_685",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_686",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_687",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_688",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_689",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_690",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_691",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_692",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_693",
+      "predict": "Sai",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_694",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_695",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_696",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_697",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_698",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_699",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_700",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_701",
+      "predict": "Đúng",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_702",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_703",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_704",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_705",
+      "predict": "Sai",
+      "gold": "Sai"
+    },
+    {
+      "question_id": "train_alqac25_706",
+      "predict": "Đúng",
+      "gold": "Đúng"
+    },
+    {
+      "question_id": "train_alqac25_707",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_708",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_709",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_710",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_711",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_712",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_713",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_714",
+      "predict": "D",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_715",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_716",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_717",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_718",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_719",
+      "predict": "B",
+      "gold": "B"
+    },
+    {
+      "question_id": "train_alqac25_720",
+      "predict": "A",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_721",
+      "predict": "A",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_722",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_723",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_724",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_725",
+      "predict": "B",
+      "gold": "A"
+    },
+    {
+      "question_id": "train_alqac25_726",
+      "predict": "C",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_727",
+      "predict": "C",
+      "gold": "C"
+    },
+    {
+      "question_id": "train_alqac25_728",
+      "predict": "D",
+      "gold": "D"
+    },
+    {
+      "question_id": "train_alqac25_729",
+      "predict": "C",
+      "gold": "C"
+    }
+  ]
+}

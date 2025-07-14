@@ -11,3 +11,6 @@ wheels/
 models
 qdrant
 ALQAC_2025_data
+.env
+
+*.log
