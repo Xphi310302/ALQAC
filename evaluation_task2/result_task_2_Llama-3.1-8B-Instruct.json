@@ -1,6 +1,6 @@
 {
   "evaluation": {
-    "accuracy": 0.7887517146776406,
+    "accuracy": 0.7983539094650206,
     "total_questions": 729,
     "evaluated_questions": 729
   },
@@ -207,7 +207,7 @@
     },
     {
       "question_id": "train_alqac25_41",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "question_id": "train_alqac25_47",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "question_id": "train_alqac25_95",
-      "predict": "```answer\nSau khi sổ hộ khẩu hết hiệu lực, chứng minh nơi thường trú có thể thực hiện bằng cách sử dụng các giấy tờ sau:\n\n- Sổ tạm trú hoặc giấy tờ chứng minh nơi tạm trú;\n- Giấy tờ chứng minh nơi ở hiện tại, như giấy chứng nhận quyền sử dụng đất, giấy phép xây dựng, giấy tờ về nhà ở;\n- Giấy tờ chứng minh quan hệ với chủ hộ, như giấy khai sinh, giấy chứng nhận đăng ký kết hôn;\n- Giấy tờ chứng minh tình trạng hôn nhân, như giấy chứng nhận đăng ký kết hôn, giấy xác nhận tình trạng độc thân\n\nNgười dân có thể sử dụng các giấy tờ này để chứng minh nơi thường trú khi cần thiết, như khi đăng ký học tập, làm việc, hoặc khi cần chứng minh địa chỉ cư trú",
+      "predict": "```answer\nSau khi sổ hộ khẩu hết hiệu lực, chứng minh nơi thường trú có thể thực hiện bằng cách sử dụng các giấy tờ sau:\n\n- Giấy chứng minh nhân dân hoặc thẻ căn cước công dân;\n- Giấy khai sinh;\n- Giấy tờ chứng minh nơi ở hợp pháp (như hợp đồng thuê nhà, giấy tờ mua bán nhà, giấy tờ chứng nhận quyền sử dụng đất);\n- Giấy tờ xác nhận của cơ quan có thẩm quyền về nơi thường trú\n\nNgoài ra, người dân cũng có thể sử dụng các giấy tờ khác như giấy tờ chứng minh quan hệ gia đình, giấy tờ chứng minh tình trạng hôn nhân, để chứng minh nơi thường trú\n\nLưu ý: Sau khi sổ hộ khẩu hết hiệu lực, người dân vẫn có thể sử dụng các giấy tờ này để chứng minh nơi thường trú, nhưng cần phải cung cấp thêm các giấy tờ khác để chứng minh mối quan hệ giữa các thành viên trong gia đình",
       "gold": "Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia."
     },
     {
@@ -787,7 +787,7 @@
     },
     {
       "question_id": "train_alqac25_157",
-      "predict": "Sai",
+      "predict": "Đúng",
       "gold": "Sai"
     },
     {
@@ -837,7 +837,7 @@
     },
     {
       "question_id": "train_alqac25_167",
-      "predict": "A",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -1172,7 +1172,7 @@
     },
     {
       "question_id": "train_alqac25_234",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1347,7 +1347,7 @@
     },
     {
       "question_id": "train_alqac25_269",
-      "predict": "Hành vi cản trở người phiên dịch thực hiện nhiệm vụ hoặc buộc người phiên dịch dịch không trung thực, không khách quan, không đúng nghĩa (điểm 6) và Hành vi cố ý dịch sai sự thật (điểm 8) và Hành vi không cử người tham gia Hội đồng định giá theo yêu cầu của Tòa án mà không có lý do chính đáng; không tham gia thực hiện nhiệm vụ của Hội đồng định giá mà không có lý do chính đáng (điểm 9) và Hành vi cản trở người tiến hành tố tụng xem xét, thẩm định tại chỗ, quyết định định giá, quyết định trưng cầu giám định hoặc xác minh, thu thập chứng cứ khác theo quy định của Luật này (điểm 7) được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án",
+      "predict": "Hành vi cản trở người phiên dịch thực hiện nhiệm vụ hoặc buộc người phiên dịch dịch không trung thực, không khách quan, không đúng nghĩa (điểm 6) và hành vi cố ý dịch sai sự thật (điểm 8) được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án liên quan đến phiên dịch",
       "gold": "Dịch sai sự thật"
     },
     {
@@ -1572,7 +1572,7 @@
     },
     {
       "question_id": "train_alqac25_314",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1862,7 +1862,7 @@
     },
     {
       "question_id": "train_alqac25_372",
-      "predict": "Thông tin về cuộc họp nội bộ của cơ quan nhà nước",
+      "predict": "các cuộc họp nội bộ của cơ quan nhà nước",
       "gold": "nội bộ"
     },
     {
@@ -1927,7 +1927,7 @@
     },
     {
       "question_id": "train_alqac25_385",
-      "predict": "```answer\nViện kiểm sát nhân dân có quyền hạn sau:\n- Trình công tố trong xét xử vụ án hình sự;\n- Kiểm sát việc giải quyết vụ việc dân sự, hôn nhân và gia đình, hành chính, kinh doanh thương mại, lao động của tòa án, trọng tài thương mại;\n- Kiểm sát việc thi hành án;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc giải quyết vụ việc dân sự, hôn nhân và gia đình, hành chính, kinh doanh thương mại, lao động của tòa án, trọng tài thương mại;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc thi hành án;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc xử lý người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi phạm pháp luật;\n- Kiến nghị với cơ quan, tổ chức có thẩm quyền việc áp dụng biện pháp ngăn chặn ngay khi có căn cứ xác định người có hành vi vi",
+      "predict": "Viện kiểm sát nhân dân có quyền hạn sau:\n- Trình công tố trong xét xử vụ án hình sự;\n- Kiểm sát việc tuân theo pháp luật của các cơ quan, tổ chức và cá nhân trong các lĩnh vực tư pháp, hành chính, dân sự, hôn nhân và gia đình, lao động, kinh tế, quốc phòng, an ninh, bảo vệ hòa bình quốc tế, phòng chống tội phạm và vi phạm pháp luật khác;\n- Kiến nghị với cơ quan có thẩm quyền xử lý các hành vi vi phạm pháp luật;\n- Thực hành quyền công tố, kiểm sát hoạt động tư pháp",
       "gold": "Quyền công tố và kiểm sát hoạt động tư pháp."
     },
     {
@@ -2222,7 +2222,7 @@
     },
     {
       "question_id": "train_alqac25_444",
-      "predict": "Sai",
+      "predict": "Đúng",
       "gold": "Đúng"
     },
     {
@@ -2337,7 +2337,7 @@
     },
     {
       "question_id": "train_alqac25_467",
-      "predict": "```answer\nTheo khoản 1 Điều 68 Luật Trọng tài thương mại 2010, các bên có quyền hủy yêu cầu phán quyết trọng tài trong các trường hợp sau:\n- Một trong các bên rút yêu cầu hoặc không tham gia phiên họp, không cung cấp tài liệu, chứng cứ mà không có lý do chính đáng\n- Có sự thay đổi cơ bản về nội dung vụ việc mà bên yêu cầu đã biết nhưng không thông báo cho Hội đồng trọng tài\n- Hội đồng trọng tài không có đủ thành viên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về số lượng thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về chuyên môn của thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về nguyên tắc, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về ngôn ngữ, địa điểm, thời gian trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về thời hiệu, thời hạn theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về trình tự, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của các bên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tham gia trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tiến hành trọng tài theo quy định của Luật này\n- Hội đồng",
+      "predict": "```answer\nTheo khoản 1 Điều 68 Luật Trọng tài thương mại 2010, các bên có quyền hủy yêu cầu phán quyết trọng tài trong các trường hợp sau:\n- Một trong các bên rút yêu cầu hoặc không tham gia phiên họp, không cung cấp tài liệu, chứng cứ mà không có lý do chính đáng\n- Có sự thay đổi cơ bản về nội dung vụ việc mà bên yêu cầu đã biết nhưng không thông báo cho Hội đồng trọng tài\n- Hội đồng trọng tài không có đủ thành viên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về số lượng thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về chuyên môn của thành viên Hội đồng trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về nguyên tắc, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về ngôn ngữ, địa điểm, thời gian trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về thời hiệu, thời hạn theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về trình tự, thủ tục trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của các bên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của trọng tài viên theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của người tham gia trọng tài theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân khác theo quy định của Luật này\n- Hội đồng trọng tài không tuân thủ quy định về quyền, nghĩa vụ của",
       "gold": "Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một bên có đủ căn cứ để chứng minh được rằng Hội đồng trọng tài đã ra phán quyết thuộc một trong những trường hợp quy định tại khoản 2 Điều 68 của Luật trọng tài thương mại, thì có quyền làm đơn gửi Toà án có thẩm quyền yêu cầu huỷ phán quyết trọng tài. Đơn yêu cầu hủy phán quyết trọng tài phải kèm theo các tài liệu, chứng cứ chứng minh cho yêu cầu hủy phán quyết trọng tài là có căn cứ và hợp pháp."
     },
     {
@@ -2357,7 +2357,7 @@
     },
     {
       "question_id": "train_alqac25_471",
-      "predict": "Nội dung, thời gian hạn chế quyền tự do cư trú của công dân được quy định như sau:\n\n- Theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền\n- Theo quy định của luật có liên quan",
+      "predict": "Nội dung, thời gian hạn chế quyền tự do cư trú của công dân được quy định như sau: \n- Theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền\n- Theo quy định của luật có liên quan",
       "gold": "Nội dung, thời gian hạn chế quyền tự do cư trú thực hiện theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền hoặc theo quy định của luật có liên quan."
     },
     {
@@ -2487,7 +2487,7 @@
     },
     {
       "question_id": "train_alqac25_497",
-      "predict": "D",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -2497,7 +2497,7 @@
     },
     {
       "question_id": "train_alqac25_499",
-      "predict": "Cơ sở thực hiện hợp tác quốc tế về an ninh mạng bao gồm: tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi",
+      "predict": "Cơ sở thực hiện hợp tác quốc tế về an ninh mạng bao gồm:\n\n- Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ;\n- Không can thiệp vào công việc nội bộ của nhau;\n- Bình đẳng và cùng có lợi",
       "gold": "Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi."
     },
     {
@@ -2507,7 +2507,7 @@
     },
     {
       "question_id": "train_alqac25_501",
-      "predict": "Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",
+      "predict": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",
       "gold": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
     },
     {
@@ -3467,7 +3467,7 @@
     },
     {
       "question_id": "train_alqac25_693",
-      "predict": "Sai",
+      "predict": "Đúng",
       "gold": "Đúng"
     },
     {
