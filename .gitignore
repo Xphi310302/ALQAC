@@ -14,3 +14,6 @@ ALQAC_2025_data
 .env
 
 *.log
+qdrant
+qdrant_768
+reranker_models
