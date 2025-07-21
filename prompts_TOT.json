@@ -1,0 +1,13 @@
+{
+  "essay": [
+    "{premise}\n\nCâu hỏi: {hypothesis}\n\nHãy dẫn tôi qua ngữ cảnh trên thành các phần dễ quản lý, tóm tắt và phân tích từng bước, sau đó phát triển một bài luận (essay) mạch lạc trả lời câu hỏi. Lưu ý phải tuân theo format trả về chặt chẽ: ```answer```"
+  ],
+
+  "options": [
+    "Ngữ cảnh: {premise}\nCâu hỏi: {hypothesis}\n\nHãy chia ngữ cảnh thành các phần nhỏ, tóm tắt và phân tích từng phần một cách có hệ thống. Dựa trên phân tích, hãy chọn một trong các đáp án sau:\nA) {choices[A]}\nB) {choices[B]}\nC) {choices[C]}\nD) {choices[D]}"
+  ],
+
+  "truefalse": [
+    "{premise}\n\nCâu hỏi: {hypothesis}\n\nHãy đi qua ngữ cảnh thành các bước nhỏ, tóm tắt và phân tích từng bước trước khi đưa ra kết luận “Đúng” hay “Sai.”"
+  ]
+}

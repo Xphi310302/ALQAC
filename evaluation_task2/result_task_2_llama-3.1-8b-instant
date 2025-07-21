@@ -1,6 +1,6 @@
 {
   "evaluation": {
-    "accuracy": 0.588477366255144,
+    "accuracy": 0.598079561042524,
     "total_questions": 729,
     "evaluated_questions": 729
   },
@@ -22,7 +22,7 @@
     },
     {
       "question_id": "train_alqac25_4",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "question_id": "train_alqac25_6",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_7",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "question_id": "train_alqac25_9",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -67,12 +67,12 @@
     },
     {
       "question_id": "train_alqac25_13",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_14",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "question_id": "train_alqac25_17",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "question_id": "train_alqac25_19",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_20",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "question_id": "train_alqac25_25",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "question_id": "train_alqac25_27",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "question_id": "train_alqac25_30",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "question_id": "train_alqac25_32",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "question_id": "train_alqac25_34",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -187,17 +187,17 @@
     },
     {
       "question_id": "train_alqac25_37",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_38",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_39",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "question_id": "train_alqac25_41",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -217,47 +217,47 @@
     },
     {
       "question_id": "train_alqac25_43",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_44",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_45",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_46",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_47",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_48",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_49",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_50",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_51",
-      "predict": "A",
+      "predict": "B",
       "gold": "A"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "question_id": "train_alqac25_56",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
@@ -302,7 +302,7 @@
     },
     {
       "question_id": "train_alqac25_60",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "question_id": "train_alqac25_62",
-      "predict": "B",
+      "predict": "Để tìm hành vi không thuộc hành vi bị nghiêm cấm về cư trú, chúng ta cần phân tích từng phần trong danh sách hành vi bị nghiêm cấm về cư trú\n\n**Phần 1: Cản trở công dân thực hiện quyền tự do cư trú**\n- Hành vi này liên quan đến việc cản trở quyền tự do cư trú của công dân, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 2: Lạm dụng việc sử dụng thông tin về nơi thường trú, nơi tạm trú làm điều kiện để hạn chế quyền, lợi ích hợp pháp của công dân**\n- Hành vi này liên quan đến việc lạm dụng thông tin về cư trú để hạn chế quyền lợi của công dân, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 3: Đưa, môi giới, nhận hối lộ trong việc đăng ký, quản lý cư trú**\n- Hành vi này liên quan đến việc tham nhũng trong việc đăng ký, quản lý cư trú, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 4: Không tiếp nhận, trì hoãn việc tiếp nhận hồ sơ, giấy tờ, tài liệu, thông tin đăng ký cư trú hoặc có hành vi nhũng nhiễu khác; không thực hiện, thực hiện không đúng thời hạn đăng ký cư trú cho công dân khi hồ sơ đủ điều kiện đăng ký cư trú; xóa đăng ký thường trú, đăng ký tạm trú trái với quy định của pháp luật**\n- Hành vi này liên quan đến việc không tiếp nhận hồ sơ, giấy tờ, tài liệu, thông tin đăng ký cư trú hoặc có hành vi nhũng nhiễu khác, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 5: Thu, quản lý, sử dụng lệ phí đăng ký cư trú trái với quy định của pháp luật**\n- Hành vi này liên quan đến việc thu, quản lý, sử dụng lệ phí đăng ký cư trú trái với quy định của pháp luật, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 6: Tự đặt ra thời hạn, thủ tục, giấy tờ, tài liệu, biểu mẫu trái với quy định của pháp luật hoặc làm sai lệch thông tin, sổ sách, hồ sơ về cư trú**\n- Hành vi này liên quan đến việc tự đặt ra thời hạn, thủ tục, giấy tờ, tài liệu, biểu mẫu trái với quy định của pháp luật hoặc làm sai lệch thông tin, sổ sách, hồ sơ về cư trú, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 7: Cố ý cấp hoặc từ chối cấp giấy tờ, tài liệu về cư trú trái với quy định của pháp luật**\n- Hành vi này liên quan đến việc cố ý cấp hoặc từ chối cấp giấy tờ, tài liệu về cư trú trái với quy định của pháp luật, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 8: Lợi dụng việc thực hiện quyền tự do cư trú để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân**\n- Hành vi này liên quan đến việc lợi dụng quyền tự do cư trú để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân, không liên quan đến hành vi khai thác thông tin về cư trú\n\n**Phần 9: Làm giả giấy tờ, tài liệu, dữ liệu về cư trú; sử dụng giấy tờ, tài liệu, dữ liệu giả về cư trú; cung cấp thông tin, giấy tờ, tài liệu sai sự thật về cư trú; khai man điều kiện, giả mạo hồ sơ, giấy tờ, tài liệu để được đăng ký thường trú, đăng ký tạm trú; mua, bán, thuê, cho thuê, mượn, cho mượn, cầm cố, nhận cầm cố, hủy hoại giấy tờ, tài liệu về cư trú**\n- Hành vi này liên quan đến việc làm giả giấy tờ, tài liệu, dữ liệu về cư trú, sử dụng giấy tờ, tài liệu, dữ liệu giả về cư trú, cung cấp thông tin, giấy tờ, tài liệu sai sự thật về cư trú, khai man điều kiện, giả mạo hồ sơ, giấy tờ, tài liệu để được đăng ký thường trú, đăng ký tạm trú, mua, bán, thuê, cho thuê, mượn, cho mượn, cầm cố, nhận cầm cố, hủy hoại giấy tờ, tài liệu về cư trú\n\n**Phần 10: Tổ chức, kích động, xúi giục, lôi kéo, dụ dỗ, giúp sức, cưỡng bức người khác vi phạm pháp",
       "gold": "B"
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "question_id": "train_alqac25_64",
-      "predict": "A",
+      "predict": "C",
       "gold": "A"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "question_id": "train_alqac25_67",
-      "predict": "A",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "question_id": "train_alqac25_72",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -392,12 +392,12 @@
     },
     {
       "question_id": "train_alqac25_78",
-      "predict": "B",
+      "predict": "```answer",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_79",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
@@ -412,7 +412,7 @@
     },
     {
       "question_id": "train_alqac25_82",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
@@ -432,12 +432,12 @@
     },
     {
       "question_id": "train_alqac25_86",
-      "predict": "D",
+      "predict": "```answer",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_87",
-      "predict": "D",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -457,52 +457,52 @@
     },
     {
       "question_id": "train_alqac25_91",
-      "predict": "Trong vòng 10 ngày làm việc kể từ khi nhận được đơn khởi kiện, hồ sơ vụ án và biên lai tạm ứng chi phí trọng tài, Trung tâm Trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và các tài liệu liên quan",
+      "predict": "10 ngày",
       "gold": "10 ngày"
     },
     {
       "question_id": "train_alqac25_92",
-      "predict": "Ảnh chân dung màu kích thước 3cm x 4cm là một phần của hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch",
+      "predict": "3 cm x 4 cm",
       "gold": "3 cm x 4 cm"
     },
     {
       "question_id": "train_alqac25_93",
-      "predict": "Thời hạn quản lý người sử dụng trái phép chất ma tuý là một năm kể từ ngày Chủ tịch Uỷ ban nhân dân cấp xã ra quyết định quản lý",
+      "predict": "**Ngữ cảnh và nội dung chính**\n\nNgữ cảnh: Quản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ\n\n**Nội dung chính**\n\n1 **Giải thích về quản lý người sử dụng trái phép chất ma túy**\n - Quản lý người sử dụng trái phép chất ma túy không phải là biện pháp xử lý hành chính\n - Mục đích của biện pháp này là giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ\n\n2 **Thời hạn quản lý người sử dụng trái phép chất ma túy**\n - Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý\n\n3 **Nội dung quản lý người sử dụng trái phép chất ma túy**\n - Tư vấn, động viên, giáo dục, giúp đỡ người sử dụng trái phép chất ma túy để họ không tiếp tục sử dụng trái phép chất ma túy\n - Xét nghiệm chất ma túy trong cơ thể\n - Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự, an toàn xã hội\n\n4 **Quy trình quản lý người sử dụng trái phép chất ma túy**\n - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả xét nghiệm dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy cư trú tại địa phương\n\n5 **Dừng quản lý người sử dụng trái phép chất ma túy**\n - Trong thời hạn quản lý, Chủ tịch Ủy ban nhân dân cấp xã ra quyết định dừng quản lý người sử dụng trái phép chất ma túy trong các trường hợp sau đây:\n + Người sử dụng trái phép chất ma túy được xác định là người nghiện ma túy\n + Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy\n + Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng\n + Người sử dụng trái phép chất ma túy phải thi hành án phạt tù\n + Người sử dụng trái phép chất ma túy trong danh sách quản lý chết, bị Tòa án tuyên bố là mất tích\n\n**Bài luận (essay)**\n\nQuản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý\n\nTrong quá trình quản lý, người sử dụng trái phép chất ma túy sẽ được tư vấn, động viên, giáo dục, giúp đỡ để họ không tiếp tục sử dụng trái phép chất ma túy Đồng thời, người sử dụng trái phép chất ma túy sẽ được xét nghiệm chất ma túy trong cơ thể và ngăn chặn hành vi gây mất trật tự, an toàn xã hội\n\nQuy trình quản lý người sử dụng trái phép chất ma túy được thực hiện như sau: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả xét nghiệm dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy cư trú tại địa phương\n\nTrong thời hạn quản lý, Chủ tịch Ủy ban nhân dân cấp xã ra quyết định dừng quản lý người sử dụng trái phép chất ma túy trong các trường hợp sau đây: Người sử dụng trái phép chất ma túy được xác định là người nghiện ma túy; người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy; người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng; người sử dụng trái phép chất ma túy phải thi hành án phạt tù; người sử dụng trái phép chất ma túy trong danh sách quản lý chết, bị Tòa án",
       "gold": "1 năm"
     },
     {
       "question_id": "train_alqac25_94",
-      "predict": "Chức năng của trung tâm trọng tài là tổ chức, điều phối hoạt động giải quyết tranh chấp bằng trọng tài theo quy định của pháp luật và hỗ trợ trọng tài viên thực hiện nhiệm vụ trong quá trình tố tụng trọng tài Ngoài ra, trung tâm trọng tài còn có trách nhiệm quản lý hồ sơ vụ việc, thu phí trọng tài, thông báo kết quả giải quyết tranh chấp đến các bên liên quan và lưu trữ hồ sơ vụ việc theo quy định của pháp luật",
+      "predict": "Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác",
       "gold": "Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài."
     },
     {
       "question_id": "train_alqac25_95",
-      "predict": "Từ ngày 01/01/2023, để chứng minh nơi thường trú, công dân cần xuất trình thẻ căn cước công dân gắn chip điện tử hoặc giấy tờ khác có chứa thông tin về nơi thường trú như sổ hộ khẩu, sổ tạm trú, phiếu thông tin nhân thân",
+      "predict": "Người dân sẽ sử dụng các giấy tờ khác để chứng minh nơi thường trú, chẳng hạn như giấy tờ chứng minh nơi ở hiện tại, giấy tờ chứng minh quan hệ với chủ hộ, giấy tờ chứng minh tình trạng hôn nhân, vv",
       "gold": "Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia."
     },
     {
       "question_id": "train_alqac25_96",
-      "predict": "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền Thủ tục đăng ký kết hôn gồm các giấy tờ sau: Tờ khai đăng ký kết hôn; Giấy chứng nhận tình trạng hôn nhân; Bản chính Giấy chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng của cả hai bên; Trường hợp một bên cư trú ở nước ngoài thì nộp thêm bản sao hợp lệ Giấy tờ chứng minh đủ điều kiện kết hôn theo quy định của pháp luật nơi thường trú Sau khi hoàn thành hồ sơ, cặp đôi sẽ đến cơ quan nhà nước có thẩm quyền để tiến hành thủ tục đăng ký kết hôn Cơ quan nhà nước có thẩm quyền sẽ kiểm tra tính hợp lệ của hồ sơ và cấp Giấy chứng nhận kết hôn cho cặp đôi",
+      "predict": "Đăng ký kết hôn",
       "gold": "đăng ký kết hôn"
     },
     {
       "question_id": "train_alqac25_97",
-      "predict": "Các nhà quản lý giáo dục đóng vai trò quan trọng trong việc quản lý, tổ chức và điều hành các hoạt động giáo dục Họ chịu trách nhiệm lập kế hoạch, chỉ đạo, giám sát và đánh giá các chương trình giảng dạy, nhân sự, tài chính và cơ sở vật chất để đảm bảo hiệu quả hoạt động của trường hoặc cơ sở giáo dục khác Các nhà quản lý giáo dục cũng làm việc với các thành viên trong nhóm để phát triển chiến lược nhằm cải thiện kết quả học tập của sinh viên và tạo ra một môi trường học tập tích cực Ngoài ra, họ còn hỗ trợ các nhà giáo dục bằng cách cung cấp nguồn lực, hướng dẫn và phản hồi để giúp họ đạt được mục tiêu nghề nghiệp Cuối cùng, các nhà quản lý giáo dục đóng vai trò quan trọng trong việc thúc đẩy công bằng xã hội thông qua việc đảm bảo tất cả sinh viên đều có thể tiếp cận nền giáo dục chất lượng",
+      "predict": "Cán bộ quản lý giáo dục giữ vai trò quan trọng trong việc tổ chức, quản lý, điều hành các hoạt động giáo dục",
       "gold": "Cán bộ quản lý giáo dục"
     },
     {
       "question_id": "train_alqac25_98",
-      "predict": "Ngân sách nhà nước đóng vai trò chủ đạo trong tổng nguồn vốn đầu tư vào giáo dục",
+      "predict": "Ngân sách nhà nước",
       "gold": "Ngân sách nhà nước"
     },
     {
       "question_id": "train_alqac25_99",
-      "predict": "Bộ Văn hoá, Thể thao và Du lịch là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh",
+      "predict": "Bộ Văn hóa, Thể thao và Du lịch",
       "gold": "Bộ Văn hóa, Thể thao và Du lịch"
     },
     {
       "question_id": "train_alqac25_100",
-      "predict": "Chính phủ thống nhất quản lý nhà nước về điện ảnh",
+      "predict": "Chính phủ thống nhất quản lý nhà nước về điện ảnh, trong khi Bộ Văn hóa, Thể thao và Du lịch là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh",
       "gold": "Chính phủ"
     },
     {
@@ -512,7 +512,7 @@
     },
     {
       "question_id": "train_alqac25_102",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -537,7 +537,7 @@
     },
     {
       "question_id": "train_alqac25_107",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -547,12 +547,12 @@
     },
     {
       "question_id": "train_alqac25_109",
-      "predict": "Theo Luật thanh niên năm 2020, thanh niên là công dân Việt Nam từ đủ 16 tuổi đến dưới 35 tuổi",
+      "predict": "Từ đủ 16 tuổi đến 30 tuổi",
       "gold": "từ đủ 16 đến 30 tuổi"
     },
     {
       "question_id": "train_alqac25_110",
-      "predict": "Đoàn Thanh niên Cộng sản Hồ Chí Minh chủ trì hoạt động Tháng Thanh niên",
+      "predict": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
       "gold": "Đoàn Thanh niên Cộng sản Hồ Chí Minh"
     },
     {
@@ -577,7 +577,7 @@
     },
     {
       "question_id": "train_alqac25_115",
-      "predict": "Chính phủ là cơ quan thống nhất quản lý nhà nước về thanh niên",
+      "predict": "Chính phủ",
       "gold": "Chính phủ"
     },
     {
@@ -637,7 +637,7 @@
     },
     {
       "question_id": "train_alqac25_127",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -647,17 +647,17 @@
     },
     {
       "question_id": "train_alqac25_129",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_130",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_131",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "question_id": "train_alqac25_133",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "question_id": "train_alqac25_135",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -702,17 +702,17 @@
     },
     {
       "question_id": "train_alqac25_140",
-      "predict": "D",
+      "predict": "C",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_141",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_142",
-      "predict": "B",
+      "predict": "D",
       "gold": "C"
     },
     {
@@ -742,32 +742,32 @@
     },
     {
       "question_id": "train_alqac25_148",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_149",
-      "predict": "Con từ đủ 15 tuổi trở lên có thể tự mình quản lý tài sản riêng hoặc nhờ cha mẹ quản lý",
+      "predict": "15 tuổi trở lên",
       "gold": "Từ đủ 15 tuổi trở lên"
     },
     {
       "question_id": "train_alqac25_150",
-      "predict": "Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản theo quy định của pháp luật về lao động và bảo hiểm xã hội từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi",
+      "predict": "06 tháng",
       "gold": "Từ thời điểm nhận \ncon cho đến khi con \nđủ 06 tháng tuổi"
     },
     {
       "question_id": "train_alqac25_151",
-      "predict": "Nhà nước và xã hội khuyến khích việc hoà giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn Hoà giải được thực hiện theo quy định của pháp luật về hoà giải ở cơ sở",
+      "predict": "Hòa giải ở cơ sở",
       "gold": "Hòa giải"
     },
     {
       "question_id": "train_alqac25_152",
-      "predict": "Nâng cao năng lực, trình độ chuyên môn, nghiệp vụ, kỹ năng nghề nghiệp, cập nhật kiến thức mới, đổi mới sáng tạo, thích nghi với môi trường làm việc luôn biến đổi",
+      "predict": "Cơ quan, tổ chức có trách nhiệm tạo điều kiện thuận lợi cho cán bộ, công chức, viên chức và người lao động được thường xuyên học tập, học tập suốt đời để phát triển bản thân và nâng cao chất lượng cuộc sống",
       "gold": "Phát triển bản thân và nâng cao chất lượng cuộc sống"
     },
     {
       "question_id": "train_alqac25_153",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -777,22 +777,22 @@
     },
     {
       "question_id": "train_alqac25_155",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_156",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_157",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_158",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -802,12 +802,12 @@
     },
     {
       "question_id": "train_alqac25_160",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_161",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -827,7 +827,7 @@
     },
     {
       "question_id": "train_alqac25_165",
-      "predict": "C",
+      "predict": "```answer",
       "gold": "C"
     },
     {
@@ -847,12 +847,12 @@
     },
     {
       "question_id": "train_alqac25_169",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_170",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -867,7 +867,7 @@
     },
     {
       "question_id": "train_alqac25_173",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -897,7 +897,7 @@
     },
     {
       "question_id": "train_alqac25_179",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -912,7 +912,7 @@
     },
     {
       "question_id": "train_alqac25_182",
-      "predict": "B",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -922,12 +922,12 @@
     },
     {
       "question_id": "train_alqac25_184",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_185",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
@@ -937,7 +937,7 @@
     },
     {
       "question_id": "train_alqac25_187",
-      "predict": "Nơi cư trú của anh Nguyễn Văn C là Tuyên Quang vì anh đã sống với mẹ ở đó kể từ khi họ ly hôn và anh hiện đang 16 tuổi",
+      "predict": "Tuyên Quang",
       "gold": "Tuyên Quang"
     },
     {
@@ -947,7 +947,7 @@
     },
     {
       "question_id": "train_alqac25_189",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -957,7 +957,7 @@
     },
     {
       "question_id": "train_alqac25_191",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -967,7 +967,7 @@
     },
     {
       "question_id": "train_alqac25_193",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -982,7 +982,7 @@
     },
     {
       "question_id": "train_alqac25_196",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -992,22 +992,22 @@
     },
     {
       "question_id": "train_alqac25_198",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_199",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_200",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_201",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1017,12 +1017,12 @@
     },
     {
       "question_id": "train_alqac25_203",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_204",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1037,7 +1037,7 @@
     },
     {
       "question_id": "train_alqac25_207",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1067,7 +1067,7 @@
     },
     {
       "question_id": "train_alqac25_213",
-      "predict": "D",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -1077,17 +1077,17 @@
     },
     {
       "question_id": "train_alqac25_215",
-      "predict": "C",
+      "predict": "Để tìm ra đáp án chính xác, chúng ta cần phân tích từng phần của nghĩa vụ của người hưởng dụng\n\n**Phần 1: Tiếp nhận tài sản theo hiện trạng và thực hiện đăng ký nếu luật có quy định**\n- Đây là nghĩa vụ của người hưởng dụng, vì họ cần tiếp nhận tài sản theo hiện trạng và thực hiện đăng ký nếu luật có quy định để đảm bảo quyền và nghĩa vụ của mình\n\n**Phần 2: Khai thác tài sản phù hợp với công dụng, mục đích sử dụng của tài sản**\n- Đây cũng là nghĩa vụ của người hưởng dụng, vì họ cần khai thác tài sản phù hợp với công dụng, mục đích sử dụng của tài sản để đảm bảo hiệu quả sử dụng\n\n**Phần 3: Giữ gìn, bảo quản tài sản như tài sản của mình**\n- Đây cũng là nghĩa vụ của người hưởng dụng, vì họ cần giữ gìn, bảo quản tài sản như tài sản của mình để đảm bảo tài sản không bị hư hỏng hoặc mất mát\n\n**Phần 4: Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản**\n- Đây cũng là nghĩa vụ của người hưởng dụng, vì họ cần bảo dưỡng, sửa chữa tài sản theo định kỳ để đảm bảo tài sản luôn trong tình trạng tốt\n\n**Phần 5: Hoàn trả tài sản cho chủ sở hữu khi hết thời hạn hưởng dụng**\n- Đây cũng là nghĩa vụ của người hưởng dụng, vì họ cần hoàn trả tài sản cho chủ sở hữu khi hết thời hạn hưởng dụng\n\n**Câu hỏi: Điều nào sau đây KHÔNG phải là nghĩa vụ của người hưởng dụng?**\n- Dựa trên phân tích trên, chúng ta thấy rằng các phần 1, 2, 3, 4 và 5 đều là nghĩa vụ của người hưởng dụng Tuy nhiên, trong các phần được cung cấp, chỉ có phần 3 được liệt kê trong câu hỏi Phần 3 được liệt kê trong câu hỏi là \"Giữ gìn, bảo quản tài sản như tài sản của mình\"\n\nTuy nhiên, trong các phần được cung cấp, phần 3 được liệt kê là \"Giữ gìn, bảo quản tài sản như tài sản của mình\" và phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản\"\n\nTrong các phần được cung cấp, phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản\"\n\nTrong các phần được cung cấp, phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản\"\n\nTuy nhiên, trong các phần được cung cấp, phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản\"\n\nTuy nhiên, trong các phần được cung cấp, phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản\"\n\nTuy nhiên, trong các phần được cung cấp, phần 4 được liệt kê là \"Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_216",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_217",
-      "predict": "B",
+      "predict": "D",
       "gold": "B"
     },
     {
@@ -1137,12 +1137,12 @@
     },
     {
       "question_id": "train_alqac25_227",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_228",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -1162,42 +1162,42 @@
     },
     {
       "question_id": "train_alqac25_232",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_233",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_234",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_235",
-      "predict": "Tối đa là suốt cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân",
+      "predict": "Hết cuộc đời của người hưởng dụng đầu tiên",
       "gold": "Hết cuộc đời của người hưởng dụng đầu tiên"
     },
     {
       "question_id": "train_alqac25_236",
-      "predict": "Sau 01 tháng kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu đối với gia cầm và hoa lợi do gia cầm sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia cầm",
+      "predict": "01 tháng",
       "gold": "1 năm"
     },
     {
       "question_id": "train_alqac25_237",
-      "predict": "Sau 06 tháng kể từ ngày Ủy ban nhân dân cấp xã nơi người bắt được gia súc bị thất lạc thông báo công khai thì quyền sở hữu đối với gia súc và số gia súc được sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia súc",
+      "predict": "06 tháng",
       "gold": "6 tháng"
     },
     {
       "question_id": "train_alqac25_238",
-      "predict": "Tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử-văn hoá theo quy định của Luật Di sản văn hoá thuộc sở hữu của người tìm thấy nếu tài sản đó có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định",
+      "predict": "Tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử - văn hoá theo quy định của Luật di sản văn hóa thuộc sở hữu của người tìm thấy trong trường hợp tài sản có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định",
       "gold": "Tài sản tìm thấy có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định"
     },
     {
       "question_id": "train_alqac25_239",
-      "predict": "Từ 2,5 mét trở lên",
+      "predict": "2,5 mét trở lên",
       "gold": "2,5 mét"
     },
     {
@@ -1207,7 +1207,7 @@
     },
     {
       "question_id": "train_alqac25_241",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1227,7 +1227,7 @@
     },
     {
       "question_id": "train_alqac25_245",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1242,7 +1242,7 @@
     },
     {
       "question_id": "train_alqac25_248",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1252,17 +1252,17 @@
     },
     {
       "question_id": "train_alqac25_250",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_251",
-      "predict": "B",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_252",
-      "predict": "C",
+      "predict": "```answer",
       "gold": "C"
     },
     {
@@ -1272,7 +1272,7 @@
     },
     {
       "question_id": "train_alqac25_254",
-      "predict": "B",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -1282,12 +1282,12 @@
     },
     {
       "question_id": "train_alqac25_256",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_257",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -1297,7 +1297,7 @@
     },
     {
       "question_id": "train_alqac25_259",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -1307,12 +1307,12 @@
     },
     {
       "question_id": "train_alqac25_261",
-      "predict": "Thụ lý vụ án hành chính để xem xét giải quyết",
+      "predict": "Vụ án này nên được thụ lý giải quyết theo vụ án dân sự",
       "gold": "Trường hợp người khởi kiện chỉ yêu cầu hủy giấy chứng nhận quyền sử dụng đất thì Tòa án phải tôn trọng “Quyền quyết định và tự định đoạt của người khởi kiện”. Theo đó thì Tòa án phải xem xét thụ lý, giải quyết vụ án theo quy định của Luật Tố tụng hành chính"
     },
     {
       "question_id": "train_alqac25_262",
-      "predict": "Những người tiến hành tố tụng hành chính bao gồm Chánh án Toà án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Toà án; Viện trưởng Viện kiểm sát, Kiểm sát viên và Kiểm tra viên",
+      "predict": "Người tiến hành tố tụng hành chính bao gồm Chánh án Tòa án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án, Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên",
       "gold": "Chánh án tòa án, Thư kí tòa án, Thẩm phán, Kiểm sát viên, Luật sư chỉ là người bảo vệ quyền\nvà lợi ích của đương sự khi có yêu cầu,"
     },
     {
@@ -1332,32 +1332,32 @@
     },
     {
       "question_id": "train_alqac25_266",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_267",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_268",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_269",
-      "predict": "Lừa dối, đe dọa, cưỡng ép, mua chuộc, sử dụng vũ lực để ngăn chặn người phiên dịch thực hiện công việc của họ hoặc buộc người phiên dịch dịch thuật không trung thực và không khách quan",
+      "predict": "Hành vi lừa dối, đe dọa, cưỡng ép, mua chuộc, sử dụng vũ lực nhằm ngăn cản người phiên dịch thực hiện nhiệm vụ hoặc buộc người phiên dịch dịch không trung thực, không khách quan, không đúng nghĩa; hành",
       "gold": "Dịch sai sự thật"
     },
     {
       "question_id": "train_alqac25_270",
-      "predict": "Việc đối thoại trong vụ án hành chính phải tuân thủ các nguyên tắc bảo đảm tính công khai, dân chủ, tôn trọng ý kiến của đương sự; không được ép buộc đương sự thực hiện việc giải quyết vụ án hành chính trái với ý chí của họ; nội dung đối thoại, kết quả đối thoại thành giữa các đương sự không được trái pháp luật, trái đạo đức xã hội Ngoài ra, việc đối thoại còn phải tuân thủ các quy định khác của pháp luật có liên quan",
+      "predict": "Nguyên tắc đối thoại trong vụ án hành chính được quy định tại Luật Tố tụng hành chính, bao gồm ba nguyên tắc cơ bản: bảo đảm công khai, dân chủ, tôn trọng ý kiến của đương sự; không được ép buộc các đương sự thực hiện việc giải quyết vụ án hành chính trái với ý chí của họ; nội dung đối thoại, kết quả đối thoại thành giữa các đương sự không trái pháp luật, trái đạo đức xã hội",
       "gold": "Trong vụ án hành chính thì không có hòa giải mà tổ chức đối thoại để các đương sự thống nhất với nhau về việc giải quyết vụ án. Nguyên tắc đối thoại là bắt buộc. Trường hợp đối thoại thành thì Thẩm phán ra quyết định công nhận kết quả đối thoại thành, đình chỉ việc giải quyết vụ án. Quyết định này có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm."
     },
     {
       "question_id": "train_alqac25_271",
-      "predict": "Không thể tiến hành đối thoại trong các trường hợp sau đây: - Người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Toà án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt; - Đương sự không thể tham gia đối thoại được vì có lý do chính đáng; - Các bên đương sự thống nhất đề nghị không tiến hành đối thoại",
+      "predict": "Những vụ án hành chính không tiến hành đối thoại là: người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt, đương sự không thể tham gia đối thoại được vì có lý do chính đáng, và các bên đương sự thống nhất đề nghị không tiến hành đối thoại",
       "gold": "Các bên đương sự đã được triệu tập lần thứ hai mà vẫn cố tình vắng mặt, hoặc không thể tham gia đối thoại, hoặc thống nhất không tiến hành đối thoại"
     },
     {
@@ -1367,7 +1367,7 @@
     },
     {
       "question_id": "train_alqac25_273",
-      "predict": "B",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -1377,7 +1377,7 @@
     },
     {
       "question_id": "train_alqac25_275",
-      "predict": "A",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -1392,17 +1392,17 @@
     },
     {
       "question_id": "train_alqac25_278",
-      "predict": "A",
+      "predict": "C",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_279",
-      "predict": "A",
+      "predict": "B",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_280",
-      "predict": "A",
+      "predict": "B",
       "gold": "D"
     },
     {
@@ -1412,27 +1412,27 @@
     },
     {
       "question_id": "train_alqac25_282",
-      "predict": "Viện trưởng Viện kiểm sát cùng cấp hoặc cấp trên trực tiếp có quyền kháng nghị bản án, quyết định tạm đình chỉ, quyết định đình chỉ việc giải quyết vụ án của Toà án cấp sơ thẩm; quyết định áp dụng biện pháp ngăn chặn, quyết định về việc dẫn độ bị cáo của Toà án cấp phúc thẩm để yêu cầu Toà án cấp phúc thẩm xét xử lại theo thủ tục phúc thẩm",
+      "predict": "Bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án",
       "gold": "Viện trưởng viện kiểm sát cùng cấp và cấp trên có quyền kháng nghị bản án, quyết định tạm đình chỉ hay đình chỉ vụ án của Tòa án cấp sơ thẩm."
     },
     {
       "question_id": "train_alqac25_283",
-      "predict": "Hội đồng xét xử phúc thẩm có quyền giữ nguyên quyết định của Toà án cấp sơ thẩm; sửa quyết định của Toà án cấp sơ thẩm; hoặc huỷ quyết định của Toà án cấp sơ thẩm và chuyển hồ sơ vụ án cho Toà án cấp sơ thẩm để giải quyết lại vụ án",
+      "predict": "Khi xem xét quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị, Hội đồng xét xử phúc thẩm có quyền giữ nguyên quyết định của Tòa án cấp sơ thẩm, sửa quyết định của Tòa án cấp sơ thẩm hoặc hủy quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để tiếp tục giải quyết vụ án",
       "gold": "Giữ nguyên quyết định của Tòa án cấp sơ thẩm; sửa quyết định của Tòa án cấp sơ thẩm; hủy quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để tiếp tục giải quyết vụ án."
     },
     {
       "question_id": "train_alqac25_284",
-      "predict": "Một vụ án có thể được giải quyết bằng thủ tục rút gọn nếu nó đáp ứng tất cả các tiêu chí sau: (1) nó có các chi tiết đơn giản; (2) tất cả các bên liên quan đều có địa chỉ rõ ràng; và (3) không có bất kỳ bên nào sống ở nước ngoàiTrường hợp có bất kỳ yếu tố bổ sung nào, chẳng hạn như nhu cầu thu thập thêm bằng chứng, sử dụng biện pháp khẩn cấp tạm thời, đưa ra yêu cầu phụ, hoặc xuất hiện của một bên thứ ba, vụ án có thể được chuyển sang thủ tục bình thường",
+      "predict": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn",
       "gold": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn."
     },
     {
       "question_id": "train_alqac25_285",
-      "predict": "Tòa án có thể chuyển vụ án sang giải quyết theo thủ tục thông thường nếu phát sinh tình tiết mới mà các đương sự không biết khi khởi kiện hoặc có căn cứ cho thấy kết quả giải quyết vụ án chưa chính xác do lỗi chủ quan của người tiến hành tố tụng",
+      "predict": "Vụ án thuộc một trong các trường hợp nêu trên",
       "gold": "Phát sinh các tình tiết mới mà các đương sự không thống nhất và cần phải xác minh, thu thập thêm tài liệu, chứng cứ hoặc cần phải tiến hành giám định; cần phải định giá tài sản nếu các đương sự không thống nhất về giá; cần phải áp dụng biện pháp khẩn cấp tạm thời; phát sinh người có quyền lợi, nghĩa vụ liên quan; phát sinh yêu cầu độc lập; phát sinh đương sự cư trú ở nước ngoài mà cần phải thực hiện ủy thác tư pháp, trừ trường hợp quy định tại điểm c khoản 1 Điều này."
     },
     {
       "question_id": "train_alqac25_286",
-      "predict": "Thẩm phán có quyền giữ nguyên bản án, quyết định của Toà án cấp sơ thẩm; sửa bản án, quyết định của Toà án cấp sơ thẩm; huỷ bản án, quyết định của Toà án cấp sơ thẩm và chuyển hồ sơ vụ án cho Toà án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn; huỷ bản án sơ thẩm và đình chỉ giải quyết vụ án; đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm",
+      "predict": "Khi xem xét bản án, quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị, Thẩm phán có các quyền sau đây:",
       "gold": "Giữ nguyên bản án, quyết định của Tòa án cấp sơ thẩm; sửa bản án, quyết định của Tòa án cấp sơ thẩm;hủy bản án, quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn; hủy bản án sơ thẩm và đình chỉ giải quyết vụ án; đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm."
     },
     {
@@ -1447,7 +1447,7 @@
     },
     {
       "question_id": "train_alqac25_289",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1462,22 +1462,22 @@
     },
     {
       "question_id": "train_alqac25_292",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_293",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_294",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_295",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1507,7 +1507,7 @@
     },
     {
       "question_id": "train_alqac25_301",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1522,47 +1522,47 @@
     },
     {
       "question_id": "train_alqac25_304",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_305",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_306",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_307",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_308",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_309",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_310",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_311",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_312",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1572,12 +1572,12 @@
     },
     {
       "question_id": "train_alqac25_314",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_315",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1622,17 +1622,17 @@
     },
     {
       "question_id": "train_alqac25_324",
-      "predict": "Thông tin theo Luật Tiếp cận thông tin có thể tồn tại dưới nhiều dạng khác nhau, chẳng hạn như bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra",
+      "predict": "Thông tin tồn tại dưới dạng bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác",
       "gold": "bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra"
     },
     {
       "question_id": "train_alqac25_325",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_326",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1647,12 +1647,12 @@
     },
     {
       "question_id": "train_alqac25_329",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_330",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1682,17 +1682,17 @@
     },
     {
       "question_id": "train_alqac25_336",
-      "predict": "Người có khó khăn trong nhận thức, làm chủ hành vi phải thông qua người giám hộ khi yêu cầu cung cấp thông tin",
+      "predict": "Người có khó khăn trong nhận thức, làm chủ hành vi",
       "gold": "Người mất năng lực hành vi dân sự"
     },
     {
       "question_id": "train_alqac25_337",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_338",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1707,7 +1707,7 @@
     },
     {
       "question_id": "train_alqac25_341",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1722,7 +1722,7 @@
     },
     {
       "question_id": "train_alqac25_344",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1757,22 +1757,22 @@
     },
     {
       "question_id": "train_alqac25_351",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_352",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_353",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_354",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1797,17 +1797,17 @@
     },
     {
       "question_id": "train_alqac25_359",
-      "predict": "A",
+      "predict": "B",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_360",
-      "predict": "",
+      "predict": "D",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_361",
-      "predict": "A",
+      "predict": "C",
       "gold": "A"
     },
     {
@@ -1817,7 +1817,7 @@
     },
     {
       "question_id": "train_alqac25_363",
-      "predict": "C",
+      "predict": "B",
       "gold": "C"
     },
     {
@@ -1857,22 +1857,22 @@
     },
     {
       "question_id": "train_alqac25_371",
-      "predict": "Thông tin thuộc bí mật nhà nước chỉ được tiếp cận sau khi đã được giải mật theo quy định của pháp luật",
+      "predict": "Khi được giải mật hoặc không gây nguy hại đến lợi ích của Nhà nước, quốc phòng, an ninh quốc gia, quan hệ quốc tế, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng; không gây nguy hại đến tính mạng, cuộc sống hoặc tài sản của người khác",
       "gold": "được giải mật"
     },
     {
       "question_id": "train_alqac25_372",
-      "predict": "Công dân không được tiếp cận thông tin về các cuộc họp nội bộ của cơ quan nhà nước",
+      "predict": "Các cuộc họp nội bộ của cơ quan nhà nước",
       "gold": "nội bộ"
     },
     {
       "question_id": "train_alqac25_373",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_374",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1882,7 +1882,7 @@
     },
     {
       "question_id": "train_alqac25_376",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1897,7 +1897,7 @@
     },
     {
       "question_id": "train_alqac25_379",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1927,17 +1927,17 @@
     },
     {
       "question_id": "train_alqac25_385",
-      "predict": "Viện kiểm sát nhân dân có quyền thực hành quyền công tố, kiểm sát việc tuân theo pháp luật; điều tra một số loại tội phạm theo quy định của pháp luật; xét xử sơ thẩm các vụ án hình sự; kháng nghị bản án, quyết định của tòa án; kiến nghị cơ quan, tổ chức, cá nhân có liên quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện xảy ra tội phạm và phòng ngừa vi phạm pháp luật; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại, tố cáo về hoạt động tư pháp",
+      "predict": "- Quyền hạn về công tố",
       "gold": "Quyền công tố và kiểm sát hoạt động tư pháp."
     },
     {
       "question_id": "train_alqac25_386",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_387",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1947,7 +1947,7 @@
     },
     {
       "question_id": "train_alqac25_389",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1957,7 +1957,7 @@
     },
     {
       "question_id": "train_alqac25_391",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1997,32 +1997,32 @@
     },
     {
       "question_id": "train_alqac25_399",
-      "predict": "Quốc hội họp mỗi năm hai kỳ",
+      "predict": "2 kỳ",
       "gold": "2 kỳ 1 năm"
     },
     {
       "question_id": "train_alqac25_400",
-      "predict": "Chủ tịch nước là người đứng đầu nhà nước, thay mặt nước cộng hòa xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại",
+      "predict": "Chủ tịch nước",
       "gold": "chủ tịch nước"
     },
     {
       "question_id": "train_alqac25_401",
-      "predict": "Chủ tịch nước chịu trách nhiệm và báo cáo công việc với Quốc hội",
+      "predict": "Quốc hội",
       "gold": "Quốc hội"
     },
     {
       "question_id": "train_alqac25_402",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_403",
-      "predict": "Đúng",
+      "predict": "```answer",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_404",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2037,7 +2037,7 @@
     },
     {
       "question_id": "train_alqac25_407",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2047,7 +2047,7 @@
     },
     {
       "question_id": "train_alqac25_409",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2057,12 +2057,12 @@
     },
     {
       "question_id": "train_alqac25_411",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_412",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2072,7 +2072,7 @@
     },
     {
       "question_id": "train_alqac25_414",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2082,17 +2082,17 @@
     },
     {
       "question_id": "train_alqac25_416",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_417",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_418",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2102,7 +2102,7 @@
     },
     {
       "question_id": "train_alqac25_420",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2147,7 +2147,7 @@
     },
     {
       "question_id": "train_alqac25_429",
-      "predict": "B",
+      "predict": "C",
       "gold": "B"
     },
     {
@@ -2217,7 +2217,7 @@
     },
     {
       "question_id": "train_alqac25_443",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2227,7 +2227,7 @@
     },
     {
       "question_id": "train_alqac25_445",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2242,7 +2242,7 @@
     },
     {
       "question_id": "train_alqac25_448",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -2267,7 +2267,7 @@
     },
     {
       "question_id": "train_alqac25_453",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2277,17 +2277,17 @@
     },
     {
       "question_id": "train_alqac25_455",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_456",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_457",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -2297,7 +2297,7 @@
     },
     {
       "question_id": "train_alqac25_459",
-      "predict": "AD",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -2312,12 +2312,12 @@
     },
     {
       "question_id": "train_alqac25_462",
-      "predict": "C",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_463",
-      "predict": "A",
+      "predict": "D",
       "gold": "A"
     },
     {
@@ -2332,32 +2332,32 @@
     },
     {
       "question_id": "train_alqac25_466",
-      "predict": "Khi bên bị thi hành phán quyết không tự nguyện thi hành phán quyết trọng tài sau khi hết thời hạn thi hành phán quyết trọng tài, bên được thi hành phán quyết có quyền làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài",
+      "predict": "Bên được thi hành phán quyết có quyền làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài",
       "gold": "Bên được thi hành phán quyết trọng tài có thể làm đơn yêu cầu cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài."
     },
     {
       "question_id": "train_alqac25_467",
-      "predict": "Để hủy bỏ phán quyết trọng tài, các bên cần nộp đơn lên tòa án có thẩm quyền trong vòng 30 ngày kể từ khi nhận được phán quyết trọng tài Đơn yêu cầu phải kèm theo các tài liệu, chứng cứ chứng minh việc hủy bỏ phán quyết trọng tài là có cơ sở và hợp pháp Nếu đơn được gửi quá hạn vì lý do bất khả kháng thì thời gian xảy ra sự kiện bất khả kháng đó cũng không được tính vào thời hạn yêu cầu hủy bỏ phán quyết trọng tài",
+      "predict": "Các bên có thể hủy yêu cầu phán quyết trọng tài bằng cách gửi đơn yêu cầu hủy phán quyết trọng tài đến Toà án có thẩm quyền trong thời hạn 30 ngày kể từ ngày nhận được phán quyết trọng tài, kèm theo các tài liệu, chứng cứ chứng minh cho yêu cầu hủy phán quyết trọng tài là có căn cứ và hợp pháp",
       "gold": "Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một bên có đủ căn cứ để chứng minh được rằng Hội đồng trọng tài đã ra phán quyết thuộc một trong những trường hợp quy định tại khoản 2 Điều 68 của Luật trọng tài thương mại, thì có quyền làm đơn gửi Toà án có thẩm quyền yêu cầu huỷ phán quyết trọng tài. Đơn yêu cầu hủy phán quyết trọng tài phải kèm theo các tài liệu, chứng cứ chứng minh cho yêu cầu hủy phán quyết trọng tài là có căn cứ và hợp pháp."
     },
     {
       "question_id": "train_alqac25_468",
-      "predict": "- Thời gian và địa điểm tổ chức phiên họp - Giấy mời tham gia phiên họp - Chương trình nghị sự của phiên họp - Danh sách thành viên Hội đồng Trọng tài - Tài liệu liên quan đến vụ việc - Các thủ tục cần tuân theo tại phiên họp - Quyết định về bất kỳ vấn đề nào phát sinh tại phiên họp - Biên bản phiên họp",
+      "predict": "Để chuẩn bị phiên họp giải quyết tranh chấp, có thể phân chia thành các bước sau:",
       "gold": "Trong trường hợp các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác, hội đồng trọng tài quyết định thời gian và địa điểm mở phiên họp. Giấy triệu tập tham dự phiên họp phải được gửi cho các bên chậm nhất 30 ngày trước ngày mở phiên họp."
     },
     {
       "question_id": "train_alqac25_469",
-      "predict": "Nếu người làm chứng được triệu tập bởi Hội đồng trọng tài, chi phí sẽ do bên yêu cầu triệu tập người làm chứng chịu Nếu người làm chứng được triệu tập bởi tòa án, chi phí sẽ do bên yêu cầu triệu tập người làm chứng chịu hoặc do tòa án phân bổ",
+      "predict": "Bên yêu cầu triệu tập người làm chứng hoặc Hội đồng trọng tài phân bổ",
       "gold": "Bên yêu cầu triệu tập người làm chứng hoặc hội đồng trọng tài phân bổ."
     },
     {
       "question_id": "train_alqac25_470",
-      "predict": "Hồ sơ đăng ký tạm trú bao gồm: a) Tờ khai thay đổi thông tin cư trú; đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; b) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp",
+      "predict": "Hồ sơ đăng ký tạm trú bao gồm:",
       "gold": "Tờ khai thay đổi thông tin cư trú; đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; giấy tờ, tài liệu chứng minh chỗ ở hợp pháp."
     },
     {
       "question_id": "train_alqac25_471",
-      "predict": "Thời hạn hạn chế quyền tự do cư trú của công dân được xác định theo nội dung, tính chất vụ việc cụ thể và được quy định rõ trong bản án, quyết định của Toà án hoặc quyết định của cơ quan nhà nước có thẩm quyền Thời hạn hạn chế quyền tự do cư trú là khoảng thời gian mà cá nhân đó không được phép di chuyển đến một địa điểm nhất định để sinh sống hoặc không được phép rời khỏi địa điểm đó Trong thời hạn hạn chế quyền tự do cư trú, cá nhân đó vẫn được phép ra ngoài địa điểm cư trú khi cần thiết với sự đồng ý bằng văn bản của cơ quan có thẩm quyền Sau khi hết thời hạn hạn chế quyền tự do cư trú, cá nhân đó được phép trở lại địa điểm cư trú bình thường",
+      "predict": "Nội dung, thời gian hạn chế quyền tự do cư trú của công dân được quy định trong Luật và các quy định khác của pháp luật có liên quan Những trường hợp hạn chế quyền tự do cư trú phải được thực hiện theo quy định của luật và phải được thực hiện một cách nghiêm minh",
       "gold": "Nội dung, thời gian hạn chế quyền tự do cư trú thực hiện theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền hoặc theo quy định của luật có liên quan."
     },
     {
@@ -2367,7 +2367,7 @@
     },
     {
       "question_id": "train_alqac25_473",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2377,17 +2377,17 @@
     },
     {
       "question_id": "train_alqac25_475",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_476",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_477",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2402,7 +2402,7 @@
     },
     {
       "question_id": "train_alqac25_480",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2417,7 +2417,7 @@
     },
     {
       "question_id": "train_alqac25_483",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2432,7 +2432,7 @@
     },
     {
       "question_id": "train_alqac25_486",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2487,7 +2487,7 @@
     },
     {
       "question_id": "train_alqac25_497",
-      "predict": "B",
+      "predict": "D",
       "gold": "B"
     },
     {
@@ -2497,17 +2497,17 @@
     },
     {
       "question_id": "train_alqac25_499",
-      "predict": "- Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi-Nghiên cứu, phân tích xu hướng an ninh mạng-Xây dựng cơ chế, chính sách nhằm thúc đẩy hợp tác giữa tổ chức, cá nhân Việt Nam với tổ chức, cá nhân nước ngoài, tổ chức quốc tế hoạt động về an ninh mạng-Chia sẻ thông tin, kinh nghiệm; hỗ trợ đào tạo, trang thiết bị, công nghệ bảo đảm an ninh mạng-Phòng, chống tội phạm mạng, hành vi xâm phạm an ninh mạng; ngăn chặn các nguy cơ đe dọa an ninh mạng-Tư vấn, đào tạo và phát triển nguồn nhân lực an ninh mạng-Tổ chức hội nghị, hội thảo và diễn đàn quốc tế về an ninh mạng-Ký kết và thực hiện điều ước quốc tế, thỏa thuận quốc tế về an ninh mạng-Thực hiện chương trình, dự án hợp tác quốc tế về an ninh mạng-Hoạt động hợp tác quốc tế khác về an ninh mạng",
+      "predict": "Cơ sở thực hiện hợp tác quốc tế về an ninh mạng gồm tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi",
       "gold": "Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi."
     },
     {
       "question_id": "train_alqac25_500",
-      "predict": "Tùy theo tính chất, mức độ vi phạm, người có hành vi vi phạm quy định của Luật An ninh mạng sẽ bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",
+      "predict": "Người nào có hành vi vi phạm quy định của Luật An ninh mạng sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",
       "gold": "Tùy theo tính chất, mức độ vi phạm mà người có hành vi vi phạm quy định về an ninh mạng sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
       "question_id": "train_alqac25_501",
-      "predict": "Luật An ninh mạng năm 2018 áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài hoạt động trên lãnh thổ Việt Nam; cơ quan, tổ chức, cá nhân khác theo quy định của pháp luật",
+      "predict": "Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng",
       "gold": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
     },
     {
@@ -2522,7 +2522,7 @@
     },
     {
       "question_id": "train_alqac25_504",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2542,12 +2542,12 @@
     },
     {
       "question_id": "train_alqac25_508",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_509",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2567,12 +2567,12 @@
     },
     {
       "question_id": "train_alqac25_513",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_514",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2592,7 +2592,7 @@
     },
     {
       "question_id": "train_alqac25_518",
-      "predict": "C",
+      "predict": "Để trả lời câu hỏi này, chúng ta cần phân tích các phần liên quan trong ngữ cảnh được cung cấp\n\n**Phần 1: Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón**\n\n- Phần này mô tả các quyền và nghĩa vụ của tổ chức, cá nhân buôn bán phân bón, bao gồm việc duy trì điều kiện buôn bán phân bón, bảo quản phân bón, kiểm tra nguồn gốc phân bón, chấp hành thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền, cung cấp chứng từ hợp pháp, bồi thường thiệt hại, hướng dẫn sử dụng phân bón và chấp hành quy định về phòng cháy và chữa cháy, hóa chất, lao động, môi trường\n\n**Phần 2: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 3: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 4: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 5: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 6: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 7: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 8: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 9: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 10: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 11: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 12: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 13: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 14: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 15: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 16: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 17: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 18: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 19: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 20: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 21: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 22: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 23: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 24: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 25: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 26: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan đến câu hỏi về thời hạn công nhận lưu hành giống cây trồng\n\n**Phần 27: Không liên quan đến câu hỏi**\n\n- Phần này không liên quan",
       "gold": "A"
     },
     {
@@ -2627,17 +2627,17 @@
     },
     {
       "question_id": "train_alqac25_525",
-      "predict": "Không quá một năm",
+      "predict": "01 năm",
       "gold": "01 năm"
     },
     {
       "question_id": "train_alqac25_526",
-      "predict": "Bộ Nông nghiệp và Phát triển nông thôn là cơ quan của Chính phủ thực hiện việc ban hành tiêu chí xác định, biện pháp quản lý và quy trình sản xuất trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển và đất có nguy cơ sa mạc hoá, hoang mạc hoá",
+      "predict": "Bộ Nông nghiệp và Phát triển nông thôn",
       "gold": "Bộ Nông nghiệp và Phát triển nông thôn"
     },
     {
       "question_id": "train_alqac25_527",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2667,17 +2667,17 @@
     },
     {
       "question_id": "train_alqac25_533",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_534",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_535",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2702,17 +2702,17 @@
     },
     {
       "question_id": "train_alqac25_540",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_541",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_542",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2722,7 +2722,7 @@
     },
     {
       "question_id": "train_alqac25_544",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
@@ -2732,202 +2732,202 @@
     },
     {
       "question_id": "train_alqac25_546",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_547",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_548",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_549",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_550",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_551",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_552",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_553",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_554",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_555",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_556",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_557",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_558",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_559",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_560",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_561",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_562",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_563",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_564",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_565",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_566",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_567",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_568",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_569",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_570",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_571",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_572",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_573",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_574",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_575",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_576",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_577",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_578",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_579",
-      "predict": "D",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_580",
-      "predict": "A",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_581",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_582",
-      "predict": "K",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_583",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_584",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_585",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
@@ -2937,387 +2937,387 @@
     },
     {
       "question_id": "train_alqac25_587",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_588",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_589",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_590",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_591",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_592",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_593",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_594",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_595",
-      "predict": "D",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_596",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_597",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_598",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_599",
-      "predict": "B",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_600",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_601",
-      "predict": "A",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_602",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_603",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_604",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_605",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_606",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_607",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_608",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_609",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_610",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_611",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_612",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_613",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_614",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_615",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_616",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_617",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_618",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_619",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_620",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_621",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_622",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_623",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_624",
-      "predict": "B",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_625",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_626",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_627",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_628",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_629",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_630",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_631",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_632",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_633",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_634",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_635",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_636",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_637",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_638",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_639",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_640",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_641",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_642",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_643",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_644",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_645",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_646",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_647",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_648",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_649",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_650",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_651",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_652",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_653",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_654",
-      "predict": "không thể trả lời",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_655",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_656",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_657",
-      "predict": "không thể trả lời",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_658",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_659",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_660",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_661",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_662",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_663",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
@@ -3327,327 +3327,327 @@
     },
     {
       "question_id": "train_alqac25_665",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_666",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_667",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_668",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_669",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_670",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_671",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_672",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_673",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_674",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_675",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_676",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_677",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_678",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_679",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_680",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_681",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_682",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_683",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_684",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_685",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_686",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_687",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_688",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_689",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_690",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_691",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_692",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_693",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_694",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_695",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_696",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_697",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_698",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_699",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_700",
-      "predict": "không thể trả lời",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_701",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_702",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_703",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_704",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_705",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_706",
-      "predict": "Đúng",
+      "predict": null,
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_707",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_708",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_709",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_710",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_711",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_712",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_713",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_714",
-      "predict": "D",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_715",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_716",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_717",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_718",
-      "predict": "B",
+      "predict": null,
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_719",
-      "predict": "B",
+      "predict": "D",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_720",
-      "predict": "A",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_721",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_722",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_723",
-      "predict": "A",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_724",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_725",
-      "predict": "C",
+      "predict": null,
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_726",
-      "predict": "C",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_727",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_728",
-      "predict": "D",
+      "predict": null,
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_729",
-      "predict": "C",
+      "predict": null,
       "gold": "C"
     }
   ]

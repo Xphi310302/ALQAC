@@ -1,6 +1,6 @@
 {
   "evaluation": {
-    "accuracy": 0.588477366255144,
+    "accuracy": 0.6652949245541838,
     "total_questions": 729,
     "evaluated_questions": 729
   },
@@ -22,7 +22,7 @@
     },
     {
       "question_id": "train_alqac25_4",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "question_id": "train_alqac25_12",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "question_id": "train_alqac25_14",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "question_id": "train_alqac25_19",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "question_id": "train_alqac25_25",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "question_id": "train_alqac25_27",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "question_id": "train_alqac25_30",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -167,12 +167,12 @@
     },
     {
       "question_id": "train_alqac25_33",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_34",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "question_id": "train_alqac25_45",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -242,12 +242,12 @@
     },
     {
       "question_id": "train_alqac25_48",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_49",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -267,12 +267,12 @@
     },
     {
       "question_id": "train_alqac25_53",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_54",
-      "predict": "C",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "question_id": "train_alqac25_56",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
@@ -322,22 +322,22 @@
     },
     {
       "question_id": "train_alqac25_64",
-      "predict": "A",
+      "predict": "C",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_65",
-      "predict": "C",
+      "predict": "```",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_66",
-      "predict": "B",
+      "predict": "```",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_67",
-      "predict": "A",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -357,12 +357,12 @@
     },
     {
       "question_id": "train_alqac25_71",
-      "predict": "A",
+      "predict": "B",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_72",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -377,7 +377,7 @@
     },
     {
       "question_id": "train_alqac25_75",
-      "predict": "A",
+      "predict": "D",
       "gold": "A"
     },
     {
@@ -412,7 +412,7 @@
     },
     {
       "question_id": "train_alqac25_82",
-      "predict": "D",
+      "predict": "B",
       "gold": "C"
     },
     {
@@ -457,52 +457,52 @@
     },
     {
       "question_id": "train_alqac25_91",
-      "predict": "Trong vòng 10 ngày làm việc kể từ khi nhận được đơn khởi kiện, hồ sơ vụ án và biên lai tạm ứng chi phí trọng tài, Trung tâm Trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và các tài liệu liên quan",
+      "predict": "10 ngày",
       "gold": "10 ngày"
     },
     {
       "question_id": "train_alqac25_92",
-      "predict": "Ảnh chân dung màu kích thước 3cm x 4cm là một phần của hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch",
+      "predict": "Hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch bao gồm ảnh chân dung màu cỡ 3 cm x 4 cm\n\nanswer\n3 cm x 4 cm",
       "gold": "3 cm x 4 cm"
     },
     {
       "question_id": "train_alqac25_93",
-      "predict": "Thời hạn quản lý người sử dụng trái phép chất ma tuý là một năm kể từ ngày Chủ tịch Uỷ ban nhân dân cấp xã ra quyết định quản lý",
+      "predict": "01 năm",
       "gold": "1 năm"
     },
     {
       "question_id": "train_alqac25_94",
-      "predict": "Chức năng của trung tâm trọng tài là tổ chức, điều phối hoạt động giải quyết tranh chấp bằng trọng tài theo quy định của pháp luật và hỗ trợ trọng tài viên thực hiện nhiệm vụ trong quá trình tố tụng trọng tài Ngoài ra, trung tâm trọng tài còn có trách nhiệm quản lý hồ sơ vụ việc, thu phí trọng tài, thông báo kết quả giải quyết tranh chấp đến các bên liên quan và lưu trữ hồ sơ vụ việc theo quy định của pháp luật",
+      "predict": "Trung tâm trọng tài có hai chức năng chính:\n\n1 Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế\n2 Hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài\n\nanswer\nTrung tâm trọng tài có hai chức năng là tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài",
       "gold": "Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài."
     },
     {
       "question_id": "train_alqac25_95",
-      "predict": "Từ ngày 01/01/2023, để chứng minh nơi thường trú, công dân cần xuất trình thẻ căn cước công dân gắn chip điện tử hoặc giấy tờ khác có chứa thông tin về nơi thường trú như sổ hộ khẩu, sổ tạm trú, phiếu thông tin nhân thân",
+      "predict": "Sau khi sổ hộ khẩu hết hiệu lực (hết ngày 31/12/2022), để chứng minh nơi thường trú, bạn có thể sử dụng các tài liệu sau:\n\n1 **Giấy khai sinh** của bạn hoặc gia đình, trong đó có thông tin về nơi sinh và nơi đăng ký khai sinh\n\n2 **Giấy tờ tùy thân** như Chứng minh nhân dân hoặc các tài liệu khác có chứa thông tin về nơi thường trú\n\n3 **Thông tin trong Hệ thống dữ liệu quốc gia**, bạn có thể truy cập hoặc yêu cầu từ cơ quan quản lý để xác nhận nơi thường trú\n\nTrả lời dựa trên các Luật Căn cước công dân, Bảo hiểm y tế và Luật Thủ đô đã được sửa đổi, bổ sung",
       "gold": "Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia."
     },
     {
       "question_id": "train_alqac25_96",
-      "predict": "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền Thủ tục đăng ký kết hôn gồm các giấy tờ sau: Tờ khai đăng ký kết hôn; Giấy chứng nhận tình trạng hôn nhân; Bản chính Giấy chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng của cả hai bên; Trường hợp một bên cư trú ở nước ngoài thì nộp thêm bản sao hợp lệ Giấy tờ chứng minh đủ điều kiện kết hôn theo quy định của pháp luật nơi thường trú Sau khi hoàn thành hồ sơ, cặp đôi sẽ đến cơ quan nhà nước có thẩm quyền để tiến hành thủ tục đăng ký kết hôn Cơ quan nhà nước có thẩm quyền sẽ kiểm tra tính hợp lệ của hồ sơ và cấp Giấy chứng nhận kết hôn cho cặp đôi",
+      "predict": "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì cần đăng ký kết hôn Thủ tục cụ thể và các tài liệu cần thiết sẽ tùy thuộc vào quy định của pháp luật nơi bạn cư trú Bạn có thể liên hệ với cơ quan đăng ký hộ tịch địa phương để được tư vấn và hướng dẫn chi tiết",
       "gold": "đăng ký kết hôn"
     },
     {
       "question_id": "train_alqac25_97",
-      "predict": "Các nhà quản lý giáo dục đóng vai trò quan trọng trong việc quản lý, tổ chức và điều hành các hoạt động giáo dục Họ chịu trách nhiệm lập kế hoạch, chỉ đạo, giám sát và đánh giá các chương trình giảng dạy, nhân sự, tài chính và cơ sở vật chất để đảm bảo hiệu quả hoạt động của trường hoặc cơ sở giáo dục khác Các nhà quản lý giáo dục cũng làm việc với các thành viên trong nhóm để phát triển chiến lược nhằm cải thiện kết quả học tập của sinh viên và tạo ra một môi trường học tập tích cực Ngoài ra, họ còn hỗ trợ các nhà giáo dục bằng cách cung cấp nguồn lực, hướng dẫn và phản hồi để giúp họ đạt được mục tiêu nghề nghiệp Cuối cùng, các nhà quản lý giáo dục đóng vai trò quan trọng trong việc thúc đẩy công bằng xã hội thông qua việc đảm bảo tất cả sinh viên đều có thể tiếp cận nền giáo dục chất lượng",
+      "predict": "Cán bộ quản lý giáo dục là người giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục\n\nanswer\ncán bộ quản lý giáo dục",
       "gold": "Cán bộ quản lý giáo dục"
     },
     {
       "question_id": "train_alqac25_98",
-      "predict": "Ngân sách nhà nước đóng vai trò chủ đạo trong tổng nguồn vốn đầu tư vào giáo dục",
+      "predict": "The main source of funding for education investments in Vietnam is the government's budget, which plays a dominant role\n\n**Answer:**\nNgân sách nhà nước",
       "gold": "Ngân sách nhà nước"
     },
     {
       "question_id": "train_alqac25_99",
-      "predict": "Bộ Văn hoá, Thể thao và Du lịch là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh",
+      "predict": "<think>\nĐầu tiên, tôi đọc kỹ câu hỏi và xem xét các nội dung được cung cấp Câu hỏi là: \"Cơ quan nào có trách nhiệm là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh?\"\n\nTôi nhận thấy trong phần \"Trách nhiệm quản lý nhà nước về điện ảnh của Chính phủ, Bộ Văn hóa, Thể thao và Du lịch\" có một đoạn giải thích rõ ràng về chức năng của Bộ Văn hóa, Thể thao và Du lịch Cụ thể, điều 2212111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100100",
       "gold": "Bộ Văn hóa, Thể thao và Du lịch"
     },
     {
       "question_id": "train_alqac25_100",
-      "predict": "Chính phủ thống nhất quản lý nhà nước về điện ảnh",
+      "predict": "Chính phủ",
       "gold": "Chính phủ"
     },
     {
@@ -512,7 +512,7 @@
     },
     {
       "question_id": "train_alqac25_102",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -537,22 +537,22 @@
     },
     {
       "question_id": "train_alqac25_107",
-      "predict": "C",
+      "predict": "B",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_108",
-      "predict": "A",
+      "predict": "```",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_109",
-      "predict": "Theo Luật thanh niên năm 2020, thanh niên là công dân Việt Nam từ đủ 16 tuổi đến dưới 35 tuổi",
+      "predict": "18 tuổi trở lên",
       "gold": "từ đủ 16 đến 30 tuổi"
     },
     {
       "question_id": "train_alqac25_110",
-      "predict": "Đoàn Thanh niên Cộng sản Hồ Chí Minh chủ trì hoạt động Tháng Thanh niên",
+      "predict": "The organization responsible for organizing the Young Farmer's Month is the Communist Youth League of Ho Chi Minh They lead the initiative and collaborate with various stakeholders, including government agencies and other relevant organizations\n\n**Answer:** Đoàn Thanh niên Cộng sản Hồ Chí Minh",
       "gold": "Đoàn Thanh niên Cộng sản Hồ Chí Minh"
     },
     {
@@ -577,7 +577,7 @@
     },
     {
       "question_id": "train_alqac25_115",
-      "predict": "Chính phủ là cơ quan thống nhất quản lý nhà nước về thanh niên",
+      "predict": "The agency responsible for the unified state management of young people in Vietnam is the Ministry of Youth and Sports\n\nanswer\nBộ Thể thao và Du lịch",
       "gold": "Chính phủ"
     },
     {
@@ -587,7 +587,7 @@
     },
     {
       "question_id": "train_alqac25_117",
-      "predict": "C",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -597,7 +597,7 @@
     },
     {
       "question_id": "train_alqac25_119",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
@@ -632,17 +632,17 @@
     },
     {
       "question_id": "train_alqac25_126",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_127",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_128",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -652,7 +652,7 @@
     },
     {
       "question_id": "train_alqac25_130",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "question_id": "train_alqac25_135",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -687,7 +687,7 @@
     },
     {
       "question_id": "train_alqac25_137",
-      "predict": "D",
+      "predict": "answer\nACB",
       "gold": "D"
     },
     {
@@ -702,17 +702,17 @@
     },
     {
       "question_id": "train_alqac25_140",
-      "predict": "D",
+      "predict": "A",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_141",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_142",
-      "predict": "B",
+      "predict": "C",
       "gold": "C"
     },
     {
@@ -737,37 +737,37 @@
     },
     {
       "question_id": "train_alqac25_147",
-      "predict": "D",
+      "predict": "C",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_148",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_149",
-      "predict": "Con từ đủ 15 tuổi trở lên có thể tự mình quản lý tài sản riêng hoặc nhờ cha mẹ quản lý",
+      "predict": "15 tuổi",
       "gold": "Từ đủ 15 tuổi trở lên"
     },
     {
       "question_id": "train_alqac25_150",
-      "predict": "Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản theo quy định của pháp luật về lao động và bảo hiểm xã hội từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi",
+      "predict": "The surrogate mother is entitled to receive maternity benefits for six months after the child is born\n\nanswer\n6 tháng",
       "gold": "Từ thời điểm nhận \ncon cho đến khi con \nđủ 06 tháng tuổi"
     },
     {
       "question_id": "train_alqac25_151",
-      "predict": "Nhà nước và xã hội khuyến khích việc hoà giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn Hoà giải được thực hiện theo quy định của pháp luật về hoà giải ở cơ sở",
+      "predict": "answer\nHòa giải ở cơ sở",
       "gold": "Hòa giải"
     },
     {
       "question_id": "train_alqac25_152",
-      "predict": "Nâng cao năng lực, trình độ chuyên môn, nghiệp vụ, kỹ năng nghề nghiệp, cập nhật kiến thức mới, đổi mới sáng tạo, thích nghi với môi trường làm việc luôn biến đổi",
+      "predict": "The organizations and entities responsible for creating conditions that allow civil servants, public employees, and laborers to continuously study and improve themselves are agencies, organizations, and institutions They facilitate continuous learning opportunities to aid in personal development and enhancing quality of life\n\n**Answer:** Các cơ quan, tổ chức có trách nhiệm tạo điều kiện thuận lợi cho cán bộ, công chức, viên chức và người lao động được thường xuyên học tập, học tập suốt đời để phát triển bản thân và nâng cao chất lượng cuộc sống",
       "gold": "Phát triển bản thân và nâng cao chất lượng cuộc sống"
     },
     {
       "question_id": "train_alqac25_153",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -792,7 +792,7 @@
     },
     {
       "question_id": "train_alqac25_158",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "question_id": "train_alqac25_160",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -817,17 +817,17 @@
     },
     {
       "question_id": "train_alqac25_163",
-      "predict": "D",
+      "predict": "A",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_164",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_165",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
@@ -837,7 +837,7 @@
     },
     {
       "question_id": "train_alqac25_167",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -847,12 +847,12 @@
     },
     {
       "question_id": "train_alqac25_169",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_170",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -862,7 +862,7 @@
     },
     {
       "question_id": "train_alqac25_172",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -887,7 +887,7 @@
     },
     {
       "question_id": "train_alqac25_177",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -912,7 +912,7 @@
     },
     {
       "question_id": "train_alqac25_182",
-      "predict": "B",
+      "predict": "C",
       "gold": "D"
     },
     {
@@ -922,22 +922,22 @@
     },
     {
       "question_id": "train_alqac25_184",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_185",
-      "predict": "D",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_186",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_187",
-      "predict": "Nơi cư trú của anh Nguyễn Văn C là Tuyên Quang vì anh đã sống với mẹ ở đó kể từ khi họ ly hôn và anh hiện đang 16 tuổi",
+      "predict": "Anh Nguyễn Văn C cư trú tại Tuyên Quang, vì sau khi ly dị, anh đã chuyển đến sống với mẹ ở đó và đã ở đó đến nay",
       "gold": "Tuyên Quang"
     },
     {
@@ -947,7 +947,7 @@
     },
     {
       "question_id": "train_alqac25_189",
-      "predict": "C",
+      "predict": "D",
       "gold": "B"
     },
     {
@@ -977,7 +977,7 @@
     },
     {
       "question_id": "train_alqac25_195",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -992,7 +992,7 @@
     },
     {
       "question_id": "train_alqac25_198",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -1007,7 +1007,7 @@
     },
     {
       "question_id": "train_alqac25_201",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1067,7 +1067,7 @@
     },
     {
       "question_id": "train_alqac25_213",
-      "predict": "D",
+      "predict": "C",
       "gold": "B"
     },
     {
@@ -1077,17 +1077,17 @@
     },
     {
       "question_id": "train_alqac25_215",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_216",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_217",
-      "predict": "B",
+      "predict": "C",
       "gold": "B"
     },
     {
@@ -1112,7 +1112,7 @@
     },
     {
       "question_id": "train_alqac25_222",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
@@ -1132,17 +1132,17 @@
     },
     {
       "question_id": "train_alqac25_226",
-      "predict": "B",
+      "predict": "C",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_227",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_228",
-      "predict": "C",
+      "predict": "A",
       "gold": "B"
     },
     {
@@ -1157,7 +1157,7 @@
     },
     {
       "question_id": "train_alqac25_231",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -1177,27 +1177,27 @@
     },
     {
       "question_id": "train_alqac25_235",
-      "predict": "Tối đa là suốt cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân",
+      "predict": "Thời hạn của quyền hưởng dụng tối đa là không giới hạn nếu người hưởng dụng là cá nhân, cụ thể là đến khi người đó chết",
       "gold": "Hết cuộc đời của người hưởng dụng đầu tiên"
     },
     {
       "question_id": "train_alqac25_236",
-      "predict": "Sau 01 tháng kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu đối với gia cầm và hoa lợi do gia cầm sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia cầm",
+      "predict": "1 tháng",
       "gold": "1 năm"
     },
     {
       "question_id": "train_alqac25_237",
-      "predict": "Sau 06 tháng kể từ ngày Ủy ban nhân dân cấp xã nơi người bắt được gia súc bị thất lạc thông báo công khai thì quyền sở hữu đối với gia súc và số gia súc được sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia súc",
+      "predict": "The ownership rights transfer after 6 months from the public notification\n\nanswer\n6 tháng",
       "gold": "6 tháng"
     },
     {
       "question_id": "train_alqac25_238",
-      "predict": "Tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử-văn hoá theo quy định của Luật Di sản văn hoá thuộc sở hữu của người tìm thấy nếu tài sản đó có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định",
+      "predict": "Trong trường hợp tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa và có giá trị không vượt quá mười lần mức lương cơ sở do Nhà nước quy định, quyền sở hữu đối với tài sản này thuộc sở hữu của người tìm thấy\n\n**answer**\nTài sản thuộc sở hữu của người tìm thấy",
       "gold": "Tài sản tìm thấy có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định"
     },
     {
       "question_id": "train_alqac25_239",
-      "predict": "Từ 2,5 mét trở lên",
+      "predict": "2,5 mét",
       "gold": "2,5 mét"
     },
     {
@@ -1252,12 +1252,12 @@
     },
     {
       "question_id": "train_alqac25_250",
-      "predict": "D",
+      "predict": "B",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_251",
-      "predict": "B",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -1272,7 +1272,7 @@
     },
     {
       "question_id": "train_alqac25_254",
-      "predict": "B",
+      "predict": "C",
       "gold": "A"
     },
     {
@@ -1282,7 +1282,7 @@
     },
     {
       "question_id": "train_alqac25_256",
-      "predict": "D",
+      "predict": "C",
       "gold": "C"
     },
     {
@@ -1307,12 +1307,12 @@
     },
     {
       "question_id": "train_alqac25_261",
-      "predict": "Thụ lý vụ án hành chính để xem xét giải quyết",
+      "predict": "Trường hợp đơn khởi kiện yêu cầu Tòa án giải quyết tranh chấp đất đai và hủy giấy chứng nhận quyền sử dụng đất đã cấp, thì vụ án này thuộc loại Dân sự Tòa án sẽ thụ lý và giải quyết theo quy định của Luật Dân sự\n\nanswer\nVụ án thuộc loại Dân sự",
       "gold": "Trường hợp người khởi kiện chỉ yêu cầu hủy giấy chứng nhận quyền sử dụng đất thì Tòa án phải tôn trọng “Quyền quyết định và tự định đoạt của người khởi kiện”. Theo đó thì Tòa án phải xem xét thụ lý, giải quyết vụ án theo quy định của Luật Tố tụng hành chính"
     },
     {
       "question_id": "train_alqac25_262",
-      "predict": "Những người tiến hành tố tụng hành chính bao gồm Chánh án Toà án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Toà án; Viện trưởng Viện kiểm sát, Kiểm sát viên và Kiểm tra viên",
+      "predict": "a) Chánh án Tòa án, Thẩm phán, Hội thẩm nhân dân, Thẩm tra viên, Thư ký Tòa án;\n\nb) Viện trưởng Viện kiểm sát, Kiểm sát viên, Kiểm tra viên",
       "gold": "Chánh án tòa án, Thư kí tòa án, Thẩm phán, Kiểm sát viên, Luật sư chỉ là người bảo vệ quyền\nvà lợi ích của đương sự khi có yêu cầu,"
     },
     {
@@ -1322,7 +1322,7 @@
     },
     {
       "question_id": "train_alqac25_264",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1342,22 +1342,22 @@
     },
     {
       "question_id": "train_alqac25_268",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_269",
-      "predict": "Lừa dối, đe dọa, cưỡng ép, mua chuộc, sử dụng vũ lực để ngăn chặn người phiên dịch thực hiện công việc của họ hoặc buộc người phiên dịch dịch thuật không trung thực và không khách quan",
+      "predict": "The behavior that interferes with the translator's role in evidence collection is:\n\n**6 Lừa dối, đe dọa, cưỡng ép, mua chuộc, sử dụng vũ lực nhằm ngăn cản người phiên dịch thực hiện nhiệm vụ hoặc buộc người phiên dịch dịch không trung thực, không khách quan, không đúng nghĩa**\n\nThis point specifically addresses hindering a translator's work, making it the relevant choice",
       "gold": "Dịch sai sự thật"
     },
     {
       "question_id": "train_alqac25_270",
-      "predict": "Việc đối thoại trong vụ án hành chính phải tuân thủ các nguyên tắc bảo đảm tính công khai, dân chủ, tôn trọng ý kiến của đương sự; không được ép buộc đương sự thực hiện việc giải quyết vụ án hành chính trái với ý chí của họ; nội dung đối thoại, kết quả đối thoại thành giữa các đương sự không được trái pháp luật, trái đạo đức xã hội Ngoài ra, việc đối thoại còn phải tuân thủ các quy định khác của pháp luật có liên quan",
+      "predict": "1 Trong thời hạn chuẩn bị xét xử sơ thẩm, Tòa án tiến hành đối thoại để các đương sự thống nhất về việc giải quyết vụ án, trừ các vụ án không tiến hành đối thoại được\n\n2 Việc đối thoại phải:\n   a) Bảo đảm công khai, dân chủ, tôn trọng ý kiến của đương sự;\n   b) Không ép buộc các đương sự thực hiện việc giải quyết vụ án trái ý chí của họ;\n   c) Nội dung đối thoại, kết quả đối thoại thành giữa các đương sự không trái pháp luật, trái đạo đức xã hội",
       "gold": "Trong vụ án hành chính thì không có hòa giải mà tổ chức đối thoại để các đương sự thống nhất với nhau về việc giải quyết vụ án. Nguyên tắc đối thoại là bắt buộc. Trường hợp đối thoại thành thì Thẩm phán ra quyết định công nhận kết quả đối thoại thành, đình chỉ việc giải quyết vụ án. Quyết định này có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm."
     },
     {
       "question_id": "train_alqac25_271",
-      "predict": "Không thể tiến hành đối thoại trong các trường hợp sau đây: - Người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Toà án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt; - Đương sự không thể tham gia đối thoại được vì có lý do chính đáng; - Các bên đương sự thống nhất đề nghị không tiến hành đối thoại",
+      "predict": "Những vụ án hành chính không tiến hành đối thoại được khi:\n1 Người khởi kiện, người bị kiện, người có quyền lợi, nghĩa vụ liên quan đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn cố tình vắng mặt\n2 Đương sự không thể tham gia đối thoại được vì có lý do chính đáng\n3 Các bên đương sự thống nhất đề nghị không tiến hành đối thoại",
       "gold": "Các bên đương sự đã được triệu tập lần thứ hai mà vẫn cố tình vắng mặt, hoặc không thể tham gia đối thoại, hoặc thống nhất không tiến hành đối thoại"
     },
     {
@@ -1367,7 +1367,7 @@
     },
     {
       "question_id": "train_alqac25_273",
-      "predict": "B",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -1392,17 +1392,17 @@
     },
     {
       "question_id": "train_alqac25_278",
-      "predict": "A",
+      "predict": "C",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_279",
-      "predict": "A",
+      "predict": "B",
       "gold": "B"
     },
     {
       "question_id": "train_alqac25_280",
-      "predict": "A",
+      "predict": "C",
       "gold": "D"
     },
     {
@@ -1412,27 +1412,27 @@
     },
     {
       "question_id": "train_alqac25_282",
-      "predict": "Viện trưởng Viện kiểm sát cùng cấp hoặc cấp trên trực tiếp có quyền kháng nghị bản án, quyết định tạm đình chỉ, quyết định đình chỉ việc giải quyết vụ án của Toà án cấp sơ thẩm; quyết định áp dụng biện pháp ngăn chặn, quyết định về việc dẫn độ bị cáo của Toà án cấp phúc thẩm để yêu cầu Toà án cấp phúc thẩm xét xử lại theo thủ tục phúc thẩm",
+      "predict": "answer\nViện trưởng Viện Kiểm sát có quyền kháng nghị các quyết định của Tòa án bao gồm bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án, và các quyết định khác vi phạm pháp luật hoặc có sự疏忽, nhầm lẫn",
       "gold": "Viện trưởng viện kiểm sát cùng cấp và cấp trên có quyền kháng nghị bản án, quyết định tạm đình chỉ hay đình chỉ vụ án của Tòa án cấp sơ thẩm."
     },
     {
       "question_id": "train_alqac25_283",
-      "predict": "Hội đồng xét xử phúc thẩm có quyền giữ nguyên quyết định của Toà án cấp sơ thẩm; sửa quyết định của Toà án cấp sơ thẩm; hoặc huỷ quyết định của Toà án cấp sơ thẩm và chuyển hồ sơ vụ án cho Toà án cấp sơ thẩm để giải quyết lại vụ án",
+      "predict": "The appellate court has the power to either uphold, modify, or overturn the lower court's decision \n\nAnswer: The appellate court can either retain, modify, or nullify the lower court's decision",
       "gold": "Giữ nguyên quyết định của Tòa án cấp sơ thẩm; sửa quyết định của Tòa án cấp sơ thẩm; hủy quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để tiếp tục giải quyết vụ án."
     },
     {
       "question_id": "train_alqac25_284",
-      "predict": "Một vụ án có thể được giải quyết bằng thủ tục rút gọn nếu nó đáp ứng tất cả các tiêu chí sau: (1) nó có các chi tiết đơn giản; (2) tất cả các bên liên quan đều có địa chỉ rõ ràng; và (3) không có bất kỳ bên nào sống ở nước ngoàiTrường hợp có bất kỳ yếu tố bổ sung nào, chẳng hạn như nhu cầu thu thập thêm bằng chứng, sử dụng biện pháp khẩn cấp tạm thời, đưa ra yêu cầu phụ, hoặc xuất hiện của một bên thứ ba, vụ án có thể được chuyển sang thủ tục bình thường",
+      "predict": "2 tháng",
       "gold": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn."
     },
     {
       "question_id": "train_alqac25_285",
-      "predict": "Tòa án có thể chuyển vụ án sang giải quyết theo thủ tục thông thường nếu phát sinh tình tiết mới mà các đương sự không biết khi khởi kiện hoặc có căn cứ cho thấy kết quả giải quyết vụ án chưa chính xác do lỗi chủ quan của người tiến hành tố tụng",
+      "predict": "- Có yêu cầu của Kiểm sát viên hoặc của chính bị cáo để tham gia tranh tụng sâu sắc;\n- Khi có vấn đề cần phải giải quyết tại phiên tòa",
       "gold": "Phát sinh các tình tiết mới mà các đương sự không thống nhất và cần phải xác minh, thu thập thêm tài liệu, chứng cứ hoặc cần phải tiến hành giám định; cần phải định giá tài sản nếu các đương sự không thống nhất về giá; cần phải áp dụng biện pháp khẩn cấp tạm thời; phát sinh người có quyền lợi, nghĩa vụ liên quan; phát sinh yêu cầu độc lập; phát sinh đương sự cư trú ở nước ngoài mà cần phải thực hiện ủy thác tư pháp, trừ trường hợp quy định tại điểm c khoản 1 Điều này."
     },
     {
       "question_id": "train_alqac25_286",
-      "predict": "Thẩm phán có quyền giữ nguyên bản án, quyết định của Toà án cấp sơ thẩm; sửa bản án, quyết định của Toà án cấp sơ thẩm; huỷ bản án, quyết định của Toà án cấp sơ thẩm và chuyển hồ sơ vụ án cho Toà án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn; huỷ bản án sơ thẩm và đình chỉ giải quyết vụ án; đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm",
+      "predict": "<think>\nOkay, so I'm trying to figure out the answer to this question about the rights of a judge when reviewing a case that's been appealed The question is asking what rights the judge has when examining the annulled or invalidated decision from the first instance court, specifically in the context of administrative cases\n\nFirst, I need to recall the information provided From the context, there are several points listed about the procedures for reviewing a case at the appellate level Let me go through each point one by one to identify the relevant information\n\nPoint 1 talks about the timeframe for the judge to open the appeal It mentions that within 15 days of the decision being made, the judge must convene the appellate hearing This seems more about the procedural timing rather than the rights of the judge\n\nPoint 2 discusses who can attend the appellate hearing It mentions that the defendant, the public prosecutor, and the judge must be present If the public prosecutor is absent, the court can still proceed, except in cases where the public prosecutor has filed a notice of appeal This tells me that the presence of certain parties is required, but again, it's about who is involved rather than what rights the judge has\n\nPoint 3 describes the judge's role in presenting a summary of the lower court's decision, the grounds for appeal, and the supporting documents This is more about the judge's duties rather than their rights\n\nPoint 4 is about the defendant's representative and the defendant themselves presenting their arguments This is about the defendant's participation, not the judge's rights\n\nPoint 5 involves the public prosecutor's statement on the legality of the lower court's actions Again, this is about the prosecutor's role, not the judge's rights\n\nNow, looking at point 6, it lists the specific rights the judge has when reviewing the lower court's decision It enumerates six options:\n\na) Uphold the lower court's decision\n\nb) Modify the lower court's decision\n\nc) Invalidate the lower court's decision and send the case back for retrial\n\nd) Invalidate the lower court's decision and stop further proceedings\n\ne) Stop the appellate review and maintain the lower court's decision\n\nf) Suspend the appellate review and keep the lower court's decision as is\n\nWait, in the original context, point 6 lists these as (a) to (d), but in the user's message, it's written as (a) to (d) with four options Let me check again\n\nIn the context provided, point 6 lists four options: a) Giữ nguyên (uphold), b) Sửa (modify), c) Hủy và chuyển hồ sơ (invalidate and send back), d) Hủy và đình chỉ (invalidate and stop) So, the user's question seems to have four rights, not six as I initially thought\n\nSo, the correct answer should list these four rights: uphold, modify, invalidate and send back, or invalidate and stop\n\nI need to make sure I'm not confusing the points The user's question is about the rights when the lower court's decision is annulled or invalidated, so the relevant rights are c) and d) from point 6\n\nTherefore, the answer should include both c) and d): Hủy bản án sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại theo thủ tục rút gọn hoặc theo thủ tục thông thường, and Hủy bản án sơ thẩm và đình chỉ giải quyết vụ án\n\nWait, but in the context, point 6c says \"Hủy bản án, quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn;\" which translates to \"Invalidate the lower court's decision and send the case file back for retrial, either through the simplified procedure or the regular procedure if the conditions for the simplified procedure are no longer met\"\n\nPoint 6d says \"Hủy bản án sơ thẩm và đình chỉ giải quyết vụ án;\" which means \"Invalidate the lower court's decision and stop further proceedings\"\n\nSo, the two relevant rights are c and d\n\nTherefore, the answer should list both c and d, but in the context, they are presented as separate options However, the user's example answer only included one option, but in this case, since the question is about the rights when the lower decision is annulled, both c and d apply\n\nWait, but the user's example had only one option Maybe I need to clarify whether the question is asking for all possible rights or just the ones related to annulment\n\nThe question is: \"Khi xem xét bản án, quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị, Thẩm",
       "gold": "Giữ nguyên bản án, quyết định của Tòa án cấp sơ thẩm; sửa bản án, quyết định của Tòa án cấp sơ thẩm;hủy bản án, quyết định của Tòa án cấp sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm để giải quyết lại vụ án theo thủ tục rút gọn hoặc theo thủ tục thông thường nếu không còn đủ các điều kiện giải quyết theo thủ tục rút gọn; hủy bản án sơ thẩm và đình chỉ giải quyết vụ án; đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm."
     },
     {
@@ -1447,7 +1447,7 @@
     },
     {
       "question_id": "train_alqac25_289",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1467,7 +1467,7 @@
     },
     {
       "question_id": "train_alqac25_293",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1477,12 +1477,12 @@
     },
     {
       "question_id": "train_alqac25_295",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_296",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1497,7 +1497,7 @@
     },
     {
       "question_id": "train_alqac25_299",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -1517,7 +1517,7 @@
     },
     {
       "question_id": "train_alqac25_303",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -1532,7 +1532,7 @@
     },
     {
       "question_id": "train_alqac25_306",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1577,7 +1577,7 @@
     },
     {
       "question_id": "train_alqac25_315",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1612,7 +1612,7 @@
     },
     {
       "question_id": "train_alqac25_322",
-      "predict": "D",
+      "predict": "C",
       "gold": "D"
     },
     {
@@ -1622,7 +1622,7 @@
     },
     {
       "question_id": "train_alqac25_324",
-      "predict": "Thông tin theo Luật Tiếp cận thông tin có thể tồn tại dưới nhiều dạng khác nhau, chẳng hạn như bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra",
+      "predict": "According to the Law on Access to Information, information can exist in various forms, including:\n\n- **Documents and files**: Both physical and digital, such as reports, contracts, etc\n- **Created by government agencies**: Information generated by official bodies in their official capacities\n- **Access methods**: Reading, listening, viewing, etc\n- **Information provision**: Active dissemination by the government or in response to requests\n\nThese forms encompass a wide range of mediums, from traditional paper to modern digital platforms, ensuring comprehensive coverage of information existence",
       "gold": "bản viết, bản in, bản điện tử, tranh, ảnh, bản vẽ, băng, đĩa, bản ghi hình, ghi âm hoặc các dạng khác do cơ quan nhà nước tạo ra"
     },
     {
@@ -1647,7 +1647,7 @@
     },
     {
       "question_id": "train_alqac25_329",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1657,17 +1657,17 @@
     },
     {
       "question_id": "train_alqac25_331",
-      "predict": "A",
+      "predict": "D",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_332",
-      "predict": "A",
+      "predict": "D",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_333",
-      "predict": "B",
+      "predict": "D",
       "gold": "B"
     },
     {
@@ -1682,22 +1682,22 @@
     },
     {
       "question_id": "train_alqac25_336",
-      "predict": "Người có khó khăn trong nhận thức, làm chủ hành vi phải thông qua người giám hộ khi yêu cầu cung cấp thông tin",
+      "predict": "Người có khó khăn trong nhận thức, làm chủ hành vi phải thông qua người giám hộ để yêu cầu cung cấp thông tin",
       "gold": "Người mất năng lực hành vi dân sự"
     },
     {
       "question_id": "train_alqac25_337",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_338",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_339",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1717,12 +1717,12 @@
     },
     {
       "question_id": "train_alqac25_343",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_344",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1772,7 +1772,7 @@
     },
     {
       "question_id": "train_alqac25_354",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1792,7 +1792,7 @@
     },
     {
       "question_id": "train_alqac25_358",
-      "predict": "B",
+      "predict": "C",
       "gold": "A"
     },
     {
@@ -1802,7 +1802,7 @@
     },
     {
       "question_id": "train_alqac25_360",
-      "predict": "",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -1817,7 +1817,7 @@
     },
     {
       "question_id": "train_alqac25_363",
-      "predict": "C",
+      "predict": "B",
       "gold": "C"
     },
     {
@@ -1837,7 +1837,7 @@
     },
     {
       "question_id": "train_alqac25_367",
-      "predict": "B",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -1857,7 +1857,7 @@
     },
     {
       "question_id": "train_alqac25_371",
-      "predict": "Thông tin thuộc bí mật nhà nước chỉ được tiếp cận sau khi đã được giải mật theo quy định của pháp luật",
+      "predict": "The information classified as a state secret can be accessed by the public when it has been legally declassified and when it is determined that accessing it does not pose a threat to national interests This involves a formal process where the information is reviewed, and once deemed safe, the public's right to access is protected under law",
       "gold": "được giải mật"
     },
     {
@@ -1872,12 +1872,12 @@
     },
     {
       "question_id": "train_alqac25_374",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_375",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1897,7 +1897,7 @@
     },
     {
       "question_id": "train_alqac25_379",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1927,17 +1927,17 @@
     },
     {
       "question_id": "train_alqac25_385",
-      "predict": "Viện kiểm sát nhân dân có quyền thực hành quyền công tố, kiểm sát việc tuân theo pháp luật; điều tra một số loại tội phạm theo quy định của pháp luật; xét xử sơ thẩm các vụ án hình sự; kháng nghị bản án, quyết định của tòa án; kiến nghị cơ quan, tổ chức, cá nhân có liên quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện xảy ra tội phạm và phòng ngừa vi phạm pháp luật; yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại, tố cáo về hoạt động tư pháp",
+      "predict": "The People's Court of Appeal has the rights to enforce the law, ensure justice, and protect the rights and interests of citizens, derived from their duties as outlined in the provided context \n\nAnswer: The People's Court of Appeal has the right to enforce the law, ensure justice, and protect the rights and interests of citizens",
       "gold": "Quyền công tố và kiểm sát hoạt động tư pháp."
     },
     {
       "question_id": "train_alqac25_386",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_387",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -1957,17 +1957,17 @@
     },
     {
       "question_id": "train_alqac25_391",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_392",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_393",
-      "predict": "C",
+      "predict": "```",
       "gold": "C"
     },
     {
@@ -1997,17 +1997,17 @@
     },
     {
       "question_id": "train_alqac25_399",
-      "predict": "Quốc hội họp mỗi năm hai kỳ",
+      "predict": "2 lần",
       "gold": "2 kỳ 1 năm"
     },
     {
       "question_id": "train_alqac25_400",
-      "predict": "Chủ tịch nước là người đứng đầu nhà nước, thay mặt nước cộng hòa xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại",
+      "predict": "answer\nChủ tịch nước",
       "gold": "chủ tịch nước"
     },
     {
       "question_id": "train_alqac25_401",
-      "predict": "Chủ tịch nước chịu trách nhiệm và báo cáo công việc với Quốc hội",
+      "predict": "Chủ tịch nước chịu trách nhiệm và báo cáo công tác trước Quốc hội\n\nanswer\nQuốc hội",
       "gold": "Quốc hội"
     },
     {
@@ -2022,12 +2022,12 @@
     },
     {
       "question_id": "train_alqac25_404",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_405",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -2037,7 +2037,7 @@
     },
     {
       "question_id": "train_alqac25_407",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2052,17 +2052,17 @@
     },
     {
       "question_id": "train_alqac25_410",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_411",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_412",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2077,7 +2077,7 @@
     },
     {
       "question_id": "train_alqac25_415",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -2092,7 +2092,7 @@
     },
     {
       "question_id": "train_alqac25_418",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2102,7 +2102,7 @@
     },
     {
       "question_id": "train_alqac25_420",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2157,7 +2157,7 @@
     },
     {
       "question_id": "train_alqac25_431",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
@@ -2187,22 +2187,22 @@
     },
     {
       "question_id": "train_alqac25_437",
-      "predict": "Sự cố môi trường",
+      "predict": "sự cố môi trường\n\nanswer\nsự cố môi trường",
       "gold": "Sự cố môi trường"
     },
     {
       "question_id": "train_alqac25_438",
-      "predict": "Phế liệu",
+      "predict": "The term \"phế liệu\" refers to materials recovered from various sources of waste, such as industrial, commercial, or service activities, and then reused in another production process This concept is integral to sustainable practices, promoting resource efficiency and environmental protection by transforming waste into a valuable resource It is a key aspect of the circular economy, emphasizing the reduction of waste and the maximization of resource utilization",
       "gold": "phế liệu"
     },
     {
       "question_id": "train_alqac25_439",
-      "predict": "Quan trắc môi trường là việc theo dõi liên tục, định kỳ, đột xuất, có hệ thống về thành phần môi trường, các nhân tố tác động đến môi trường, chất thải nhằm cung cấp thông tin đánh giá hiện trạng môi trường, diễn biến chất lượng môi trường và tác động xấu đến môi trường",
+      "predict": "\"Quan trắc môi trường\" is a comprehensive and ongoing process of monitoring the environment It involves systematically tracking environmental conditions through both scheduled and unscheduled checks, using various tools and technologies The goal is to gather data that helps assess the current state of the environment and detect changes or impacts over time This process is integral to implementing environmental protection plans and ensuring sustainable development",
       "gold": "Quan trắc môi trường"
     },
     {
       "question_id": "train_alqac25_440",
-      "predict": "Hạn ngạch phát thải khí nhà kính",
+      "predict": "The term \"hạn ngạch phát thải khí nhà kính\" translates to \"quota for greenhouse gas emissions\" This refers to a specific limit set on the amount of greenhouse gases that can be emitted over a certain period\n\n**Answer:** hạn ngạch phát thải khí nhà kính là gì?  \n**Answer:** It is the quota for greenhouse gas emissions",
       "gold": "Hạn ngạch phát thải khí nhà kính"
     },
     {
@@ -2227,7 +2227,7 @@
     },
     {
       "question_id": "train_alqac25_445",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2267,7 +2267,7 @@
     },
     {
       "question_id": "train_alqac25_453",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2287,17 +2287,17 @@
     },
     {
       "question_id": "train_alqac25_457",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_458",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_459",
-      "predict": "AD",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -2312,12 +2312,12 @@
     },
     {
       "question_id": "train_alqac25_462",
-      "predict": "C",
+      "predict": "D",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_463",
-      "predict": "A",
+      "predict": "D",
       "gold": "A"
     },
     {
@@ -2332,32 +2332,32 @@
     },
     {
       "question_id": "train_alqac25_466",
-      "predict": "Khi bên bị thi hành phán quyết không tự nguyện thi hành phán quyết trọng tài sau khi hết thời hạn thi hành phán quyết trọng tài, bên được thi hành phán quyết có quyền làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài",
+      "predict": "The party can file a request with the court or the relevant institution to enforce the arbitration decision\n\nanswer\nTrả lời:\nCâu hỏi: Bên được thi hành phán quyết có thể làm gì khi bên bị thi hành phán quyết không tự nguyện thi hành phán quyết sau khi hết thời hạn thi hành phán quyết trọng tài?\n\nTrả lời:\nBên được thi hành phán quyết có thể làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài\n\nanswer\nBên được thi hành phán quyết có thể làm đơn yêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài",
       "gold": "Bên được thi hành phán quyết trọng tài có thể làm đơn yêu cầu cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài."
     },
     {
       "question_id": "train_alqac25_467",
-      "predict": "Để hủy bỏ phán quyết trọng tài, các bên cần nộp đơn lên tòa án có thẩm quyền trong vòng 30 ngày kể từ khi nhận được phán quyết trọng tài Đơn yêu cầu phải kèm theo các tài liệu, chứng cứ chứng minh việc hủy bỏ phán quyết trọng tài là có cơ sở và hợp pháp Nếu đơn được gửi quá hạn vì lý do bất khả kháng thì thời gian xảy ra sự kiện bất khả kháng đó cũng không được tính vào thời hạn yêu cầu hủy bỏ phán quyết trọng tài",
+      "predict": "The withdrawal of an arbitration request can be achieved through two primary methods:\n\n1 **Within 30 Days**: A party may withdraw their request for arbitration by filing a request within 30 days of receiving the arbitration decision This withdrawal must be supported by sufficient evidence demonstrating that the arbitration panel's decision falls under one of the specific cases outlined in Article 68 of the relevant law The request must be submitted along with supporting documents\n\n2 **Due to Unavoidable Events**: If a party files their withdrawal request after the initial 30-day period but due to unavoidable events, this period does not count towards the 30-day limit Unavoidable events are circumstances that prevent timely action, though specific examples are not provided, suggesting they are determined on a case-by-case basis\n\n**Implications and Considerations**:\n- **Arbitration Process**: Upon successful withdrawal, the arbitration process typically ceases, though the exact outcome depends on the specific rules and agreements in place\n- **Legal Standing**: These procedures are part of the broader legal framework governing arbitration in Vietnam A withdrawal does not automatically invalidate the arbitration decision but may affect its enforceability\n- **Practical Implications**: Withdrawals are not uncommon, often due to unforeseen circumstances or a change in the parties' intentions\n- **Consequences for Other Party**: The withdrawal of one party does not automatically affect the other party's request Each party must independently decide whether to withdraw their own request\n- **Enforcement**: Failure to meet withdrawal requirements may result in the rejection of the request, potentially leading to further legal actions or enforcement measures\n\nIn summary, parties have two avenues for withdrawing their arbitration requests, each with specific conditions and implications that should be carefully considered in the context of ongoing disputes",
       "gold": "Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một bên có đủ căn cứ để chứng minh được rằng Hội đồng trọng tài đã ra phán quyết thuộc một trong những trường hợp quy định tại khoản 2 Điều 68 của Luật trọng tài thương mại, thì có quyền làm đơn gửi Toà án có thẩm quyền yêu cầu huỷ phán quyết trọng tài. Đơn yêu cầu hủy phán quyết trọng tài phải kèm theo các tài liệu, chứng cứ chứng minh cho yêu cầu hủy phán quyết trọng tài là có căn cứ và hợp pháp."
     },
     {
       "question_id": "train_alqac25_468",
-      "predict": "- Thời gian và địa điểm tổ chức phiên họp - Giấy mời tham gia phiên họp - Chương trình nghị sự của phiên họp - Danh sách thành viên Hội đồng Trọng tài - Tài liệu liên quan đến vụ việc - Các thủ tục cần tuân theo tại phiên họp - Quyết định về bất kỳ vấn đề nào phát sinh tại phiên họp - Biên bản phiên họp",
+      "predict": "Chuẩn bị phiên họp giải quyết tranh chấp bao gồm:\n1 Quy định thời gian và địa điểm họp do Hội đồng trọng tài quyết định\n2 Gửi giấy mời tham dự phiên họp cho các bên chậm nhất 30 ngày trước ngày mở phiên họp",
       "gold": "Trong trường hợp các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác, hội đồng trọng tài quyết định thời gian và địa điểm mở phiên họp. Giấy triệu tập tham dự phiên họp phải được gửi cho các bên chậm nhất 30 ngày trước ngày mở phiên họp."
     },
     {
       "question_id": "train_alqac25_469",
-      "predict": "Nếu người làm chứng được triệu tập bởi Hội đồng trọng tài, chi phí sẽ do bên yêu cầu triệu tập người làm chứng chịu Nếu người làm chứng được triệu tập bởi tòa án, chi phí sẽ do bên yêu cầu triệu tập người làm chứng chịu hoặc do tòa án phân bổ",
+      "predict": "The costs for the witness are covered either by the party requesting their presence or by the Arbitral Council itself, depending on the specific circumstances of the case\n\nanswer\nBên yêu cầu triệu tập người làm chứng hoặc Hội đồng trọng tài sẽ chi trả chi phí cho người làm chứng, tùy thuộc vào từng trường hợp cụ thể",
       "gold": "Bên yêu cầu triệu tập người làm chứng hoặc hội đồng trọng tài phân bổ."
     },
     {
       "question_id": "train_alqac25_470",
-      "predict": "Hồ sơ đăng ký tạm trú bao gồm: a) Tờ khai thay đổi thông tin cư trú; đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; b) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp",
+      "predict": "Hồ sơ đăng ký tạm trú bao gồm:\n\na) Tờ khai thay đổi thông tin cư trú;  \nb) Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp",
       "gold": "Tờ khai thay đổi thông tin cư trú; đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; giấy tờ, tài liệu chứng minh chỗ ở hợp pháp."
     },
     {
       "question_id": "train_alqac25_471",
-      "predict": "Thời hạn hạn chế quyền tự do cư trú của công dân được xác định theo nội dung, tính chất vụ việc cụ thể và được quy định rõ trong bản án, quyết định của Toà án hoặc quyết định của cơ quan nhà nước có thẩm quyền Thời hạn hạn chế quyền tự do cư trú là khoảng thời gian mà cá nhân đó không được phép di chuyển đến một địa điểm nhất định để sinh sống hoặc không được phép rời khỏi địa điểm đó Trong thời hạn hạn chế quyền tự do cư trú, cá nhân đó vẫn được phép ra ngoài địa điểm cư trú khi cần thiết với sự đồng ý bằng văn bản của cơ quan có thẩm quyền Sau khi hết thời hạn hạn chế quyền tự do cư trú, cá nhân đó được phép trở lại địa điểm cư trú bình thường",
+      "predict": "The content of the restrictions on citizens' freedom to reside is detailed in the law, but the duration of each restriction isn't specified in the provided context \n\nAnswer:\nThe content of the restrictions is regulated by law, but the duration isn't specified here",
       "gold": "Nội dung, thời gian hạn chế quyền tự do cư trú thực hiện theo bản án, quyết định có hiệu lực pháp luật của Tòa án, quyết định của cơ quan nhà nước khác có thẩm quyền hoặc theo quy định của luật có liên quan."
     },
     {
@@ -2367,7 +2367,7 @@
     },
     {
       "question_id": "train_alqac25_473",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2382,12 +2382,12 @@
     },
     {
       "question_id": "train_alqac25_476",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_477",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2402,7 +2402,7 @@
     },
     {
       "question_id": "train_alqac25_480",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2422,7 +2422,7 @@
     },
     {
       "question_id": "train_alqac25_484",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -2487,7 +2487,7 @@
     },
     {
       "question_id": "train_alqac25_497",
-      "predict": "B",
+      "predict": "C",
       "gold": "B"
     },
     {
@@ -2497,17 +2497,17 @@
     },
     {
       "question_id": "train_alqac25_499",
-      "predict": "- Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi-Nghiên cứu, phân tích xu hướng an ninh mạng-Xây dựng cơ chế, chính sách nhằm thúc đẩy hợp tác giữa tổ chức, cá nhân Việt Nam với tổ chức, cá nhân nước ngoài, tổ chức quốc tế hoạt động về an ninh mạng-Chia sẻ thông tin, kinh nghiệm; hỗ trợ đào tạo, trang thiết bị, công nghệ bảo đảm an ninh mạng-Phòng, chống tội phạm mạng, hành vi xâm phạm an ninh mạng; ngăn chặn các nguy cơ đe dọa an ninh mạng-Tư vấn, đào tạo và phát triển nguồn nhân lực an ninh mạng-Tổ chức hội nghị, hội thảo và diễn đàn quốc tế về an ninh mạng-Ký kết và thực hiện điều ước quốc tế, thỏa thuận quốc tế về an ninh mạng-Thực hiện chương trình, dự án hợp tác quốc tế về an ninh mạng-Hoạt động hợp tác quốc tế khác về an ninh mạng",
+      "predict": "Cơ sở thực hiện hợp tác quốc tế về an ninh mạng bao gồm:\n\n1 **Principles (Chính sách)**: \n   - Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ\n   - Không can thiệp vào công việc nội bộ của nhau\n   - Bình đẳng và cùng có lợi\n\n2 **Nội dung hợp tác**:\n   - Nghiên cứu, phân tích xu hướng an ninh mạng\n   - Xây dựng cơ chế, chính sách hợp tác\n   - Chia sẻ thông tin, kinh nghiệm; hỗ trợ đào tạo, trang thiết bị\n   - Phòng, chống tội phạm mạng và hành vi xâm phạm an ninh mạng\n   - Tư vấn, đào tạo nguồn nhân lực an ninh mạng\n   - Tổ chức hội nghị, hội thảo và diễn đàn quốc tế\n   - Ký kết và thực hiện điều ước, thỏa thuận quốc tế\n   - Thực hiện chương trình, dự án hợp tác\n   - Hoạt động hợp tác khác\n\n3 **Agencies (Bộ, ngành)**:\n   - Bộ Công an chịu trách nhiệm chủ trì\n   - Bộ Quốc phòng chịu trách nhiệm trong phạm vi quản lý\n   - Bộ Ngoại giao phối hợp với các Bộ khác\n\n4 **Thủ tục**:\n   - Hoạt động hợp tác phải có văn bản tham gia ý kiến của Bộ Công an, trừ các trường hợp của Bộ Quốc phòng\n\nThese bases ensure that international cooperation in cyber security is well-structured, respectful of sovereignty, and supported by relevant agencies with proper procedures",
       "gold": "Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi."
     },
     {
       "question_id": "train_alqac25_500",
-      "predict": "Tùy theo tính chất, mức độ vi phạm, người có hành vi vi phạm quy định của Luật An ninh mạng sẽ bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",
+      "predict": "Xử phạt kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, tùy tính chất và mức độ vi phạm; nếu gây thiệt hại phải bồi thường",
       "gold": "Tùy theo tính chất, mức độ vi phạm mà người có hành vi vi phạm quy định về an ninh mạng sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
       "question_id": "train_alqac25_501",
-      "predict": "Luật An ninh mạng năm 2018 áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài hoạt động trên lãnh thổ Việt Nam; cơ quan, tổ chức, cá nhân khác theo quy định của pháp luật",
+      "predict": "Phạm vi điều chỉnh của Luật An ninh mạng năm 2018 bao gồm các nội dung sau:\n\n1 **Trách nhiệm của các cơ quan, tổ chức, cá nhân**:\n   - Bảo vệ an ninh quốc gia và trật tự, an toàn xã hội trên không gian mạng\n   - Thực hiện các biện pháp kỹ thuật an ninh, kiểm tra, giám sát và xử phạt vi phạm\n\n2 **Kiểm tra và xử phạt vi phạm**:\n   - Xử phạt các hành vi vi phạm an ninh mạng\n   - Giám sát và kiểm tra các hoạt động có liên quan\n\n3 **Biện pháp kỹ thuật an ninh**:\n   - Sử dụng công nghệ và phương tiện để bảo vệ an ninh\n   - Lắp đặt, sử dụng và quản lý hệ thống, thiết bị an ninh\n\n4 **Áp dụng trong các trường hợp cụ thể**:\n   - Trong các cơ quan, tổ chức, cá nhân\n   - Trong các trường hợp đặc biệt theo quy định\n\n5 **Hình phạt và bồi thường thiệt hại**:\n   - Kỷ phạt, phạt tù, tịch thu, cấm các hành vi vi phạm\n   - Bồi thường thiệt hại cho người bị vi phạm\n\n6 **Phối hợp thực thi**:\n   - Các cơ quan, tổ chức, cá nhân phải phối hợp trong việc thực thi Luật An ninh mạng\n\n**Kết luận**: Phạm vi điều chỉnh của Luật An ninh mạng năm 2018 bao gồm trách nhiệm của các bên, kiểm tra và xử phạt vi phạm, biện pháp kỹ thuật an ninh, áp dụng trong các trường hợp cụ thể, và các hình phạt, bồi thường thiệt hại",
       "gold": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
     },
     {
@@ -2547,7 +2547,7 @@
     },
     {
       "question_id": "train_alqac25_509",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2567,12 +2567,12 @@
     },
     {
       "question_id": "train_alqac25_513",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_514",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2592,7 +2592,7 @@
     },
     {
       "question_id": "train_alqac25_518",
-      "predict": "C",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -2627,12 +2627,12 @@
     },
     {
       "question_id": "train_alqac25_525",
-      "predict": "Không quá một năm",
+      "predict": "01 năm",
       "gold": "01 năm"
     },
     {
       "question_id": "train_alqac25_526",
-      "predict": "Bộ Nông nghiệp và Phát triển nông thôn là cơ quan của Chính phủ thực hiện việc ban hành tiêu chí xác định, biện pháp quản lý và quy trình sản xuất trên vùng đất dốc, đất trũng, đất phèn, đất mặn, đất cát ven biển và đất có nguy cơ sa mạc hoá, hoang mạc hoá",
+      "predict": "Bộ Nông nghiệp và Phát triển nông thôn",
       "gold": "Bộ Nông nghiệp và Phát triển nông thôn"
     },
     {
@@ -2667,7 +2667,7 @@
     },
     {
       "question_id": "train_alqac25_533",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2702,17 +2702,17 @@
     },
     {
       "question_id": "train_alqac25_540",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_541",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_542",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2722,7 +2722,7 @@
     },
     {
       "question_id": "train_alqac25_544",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2732,7 +2732,7 @@
     },
     {
       "question_id": "train_alqac25_546",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2762,12 +2762,12 @@
     },
     {
       "question_id": "train_alqac25_552",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_553",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2782,7 +2782,7 @@
     },
     {
       "question_id": "train_alqac25_556",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2797,7 +2797,7 @@
     },
     {
       "question_id": "train_alqac25_559",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -2897,7 +2897,7 @@
     },
     {
       "question_id": "train_alqac25_579",
-      "predict": "D",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -2912,7 +2912,7 @@
     },
     {
       "question_id": "train_alqac25_582",
-      "predict": "K",
+      "predict": "C",
       "gold": "D"
     },
     {
@@ -2947,7 +2947,7 @@
     },
     {
       "question_id": "train_alqac25_589",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -2972,12 +2972,12 @@
     },
     {
       "question_id": "train_alqac25_594",
-      "predict": "A",
+      "predict": "D",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_595",
-      "predict": "D",
+      "predict": "A",
       "gold": "C"
     },
     {
@@ -2997,7 +2997,7 @@
     },
     {
       "question_id": "train_alqac25_599",
-      "predict": "B",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -3007,7 +3007,7 @@
     },
     {
       "question_id": "train_alqac25_601",
-      "predict": "A",
+      "predict": "B",
       "gold": "B"
     },
     {
@@ -3032,12 +3032,12 @@
     },
     {
       "question_id": "train_alqac25_606",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_607",
-      "predict": "C",
+      "predict": "B",
       "gold": "C"
     },
     {
@@ -3087,7 +3087,7 @@
     },
     {
       "question_id": "train_alqac25_617",
-      "predict": "B",
+      "predict": "```",
       "gold": "B"
     },
     {
@@ -3102,7 +3102,7 @@
     },
     {
       "question_id": "train_alqac25_620",
-      "predict": "A",
+      "predict": "B",
       "gold": "A"
     },
     {
@@ -3122,7 +3122,7 @@
     },
     {
       "question_id": "train_alqac25_624",
-      "predict": "B",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -3137,12 +3137,12 @@
     },
     {
       "question_id": "train_alqac25_627",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_628",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3157,7 +3157,7 @@
     },
     {
       "question_id": "train_alqac25_631",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3177,7 +3177,7 @@
     },
     {
       "question_id": "train_alqac25_635",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3197,7 +3197,7 @@
     },
     {
       "question_id": "train_alqac25_639",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3212,7 +3212,7 @@
     },
     {
       "question_id": "train_alqac25_642",
-      "predict": "Đúng",
+      "predict": "<think>\nđầu tiên, tôi đọc kỹ câu hỏi và các nội dung pháp lý được cung cấp câu hỏi hỏi xem việc quan trắc nước thải tự động, liên tục bao gồm đối tượng nào tôi xem xét từng điểm trong phần 1, 2, 3 của nội dung pháp lý\n\nphần 1 liệt kê ba đối tượng cần quan trắc nước thải tự động, liên tục: các khu sản xuất, kinh doanh, dịch vụ tập trung; dự án đầu tư, cơ sở có nguy cơ gây ô nhiễm; và dự án đầu tư, cơ sở không có nguy cơ gây ô nhiễm nhưng xả nước thải lớn phần 2 thì lại phân thành hai đối tượng: các khu sản xuất, kinh doanh, dịch vụ tập trung; và các dự án, cơ sở có lưu lượng xả nước thải lớn\n\ntôi nhận thấy rằng phần 1 và phần 2 có nội dung giống nhau, chỉ khác ở cách liệt kê điều này có thể dẫn đến việc quan trắc nước thải tự động, liên tục phải bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ntôi cũng xem xét các trách nhiệm của cơ quan chuyên môn và các khuyến khích khác cuối cùng, tôi so sánh với các quy định pháp lý và nhận thấy rằng quan trắc nước thải tự động, liên tục cần bao gồm cả hai đối tượng như trong phần 2 điều này có nghĩa là phần 1 và phần 2 có nội dung trùng lặp, nhưng không ảnh hưởng đến việc xác định xem quan trắc tự động, liên tục bao gồm đối tượng nào\n\nsau khi phân tích kỹ lưỡng, tôi kết luận rằng quan trắc nước thải tự động, liên tục bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ncuối cùng, tôi nhận thấy rằng quan trắc nước thải tự động, liên tục cần bao gồm cả hai đối tượng như trong phần 2 điều này có nghĩa là phần 1 và phần 2 có nội dung trùng lặp, nhưng không ảnh hưởng đến việc xác định xem quan trắc tự động, liên tục bao gồm đối tượng nào\n\nsau khi phân tích kỹ lưỡng, tôi kết luận rằng quan trắc nước thải tự động, liên tục bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ncuối cùng, tôi nhận thấy rằng quan trắc nước thải tự động, liên tục cần bao gồm cả hai đối tượng như trong phần 2 điều này có nghĩa là phần 1 và phần 2 có nội dung trùng lặp, nhưng không ảnh hưởng đến việc xác định xem quan trắc tự động, liên tục bao gồm đối tượng nào\n\nsau khi phân tích kỹ lưỡng, tôi kết luận rằng quan trắc nước thải tự động, liên tục bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ncuối cùng, tôi nhận thấy rằng quan trắc nước thải tự động, liên tục cần bao gồm cả hai đối tượng như trong phần 2 điều này có nghĩa là phần 1 và phần 2 có nội dung trùng lặp, nhưng không ảnh hưởng đến việc xác định xem quan trắc tự động, liên tục bao gồm đối tượng nào\n\nsau khi phân tích kỹ lưỡng, tôi kết luận rằng quan trắc nước thải tự động, liên tục bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ncuối cùng, tôi nhận thấy rằng quan trắc nước thải tự động, liên tục cần bao gồm cả hai đối tượng như trong phần 2 điều này có nghĩa là phần 1 và phần 2 có nội dung trùng lặp, nhưng không ảnh hưởng đến việc xác định xem quan trắc tự động, liên tục bao gồm đối tượng nào\n\nsau khi phân tích kỹ lưỡng, tôi kết luận rằng quan trắc nước thải tự động, liên tục bao gồm cả hai đối tượng như trong phần 2 do đó, khi xem xét xem có cần quan trắc định kỳ không, tôi thấy rằng phần 3 và 4 cũng có các yêu cầu cụ thể\n\ncuối cùng, tôi nhận thấy rằng quan trắc",
       "gold": "Đúng"
     },
     {
@@ -3222,7 +3222,7 @@
     },
     {
       "question_id": "train_alqac25_644",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3242,17 +3242,17 @@
     },
     {
       "question_id": "train_alqac25_648",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_649",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_650",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3272,12 +3272,12 @@
     },
     {
       "question_id": "train_alqac25_654",
-      "predict": "không thể trả lời",
+      "predict": "Đúng",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_655",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -3287,7 +3287,7 @@
     },
     {
       "question_id": "train_alqac25_657",
-      "predict": "không thể trả lời",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -3297,12 +3297,12 @@
     },
     {
       "question_id": "train_alqac25_659",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_660",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3312,7 +3312,7 @@
     },
     {
       "question_id": "train_alqac25_662",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3342,12 +3342,12 @@
     },
     {
       "question_id": "train_alqac25_668",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
       "question_id": "train_alqac25_669",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3357,7 +3357,7 @@
     },
     {
       "question_id": "train_alqac25_671",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Đúng"
     },
     {
@@ -3367,7 +3367,7 @@
     },
     {
       "question_id": "train_alqac25_673",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3412,7 +3412,7 @@
     },
     {
       "question_id": "train_alqac25_682",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3447,7 +3447,7 @@
     },
     {
       "question_id": "train_alqac25_689",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3457,12 +3457,12 @@
     },
     {
       "question_id": "train_alqac25_691",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_692",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3477,12 +3477,12 @@
     },
     {
       "question_id": "train_alqac25_695",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_696",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3492,17 +3492,17 @@
     },
     {
       "question_id": "train_alqac25_698",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_699",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
       "question_id": "train_alqac25_700",
-      "predict": "không thể trả lời",
+      "predict": "Đúng",
       "gold": "Sai"
     },
     {
@@ -3527,7 +3527,7 @@
     },
     {
       "question_id": "train_alqac25_705",
-      "predict": "Đúng",
+      "predict": "Sai",
       "gold": "Sai"
     },
     {
@@ -3567,12 +3567,12 @@
     },
     {
       "question_id": "train_alqac25_713",
-      "predict": "D",
+      "predict": "A",
       "gold": "D"
     },
     {
       "question_id": "train_alqac25_714",
-      "predict": "D",
+      "predict": "A",
       "gold": "A"
     },
     {
@@ -3597,7 +3597,7 @@
     },
     {
       "question_id": "train_alqac25_719",
-      "predict": "B",
+      "predict": "A",
       "gold": "B"
     },
     {
@@ -3607,17 +3607,17 @@
     },
     {
       "question_id": "train_alqac25_721",
-      "predict": "C",
+      "predict": "D",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_722",
-      "predict": "C",
+      "predict": "```",
       "gold": "C"
     },
     {
       "question_id": "train_alqac25_723",
-      "predict": "A",
+      "predict": "D",
       "gold": "D"
     },
     {
@@ -3627,12 +3627,12 @@
     },
     {
       "question_id": "train_alqac25_725",
-      "predict": "C",
+      "predict": "B",
       "gold": "A"
     },
     {
       "question_id": "train_alqac25_726",
-      "predict": "C",
+      "predict": "A",
       "gold": "D"
     },
     {
@@ -3647,7 +3647,7 @@
     },
     {
       "question_id": "train_alqac25_729",
-      "predict": "C",
+      "predict": "A",
       "gold": "C"
     }
   ]
