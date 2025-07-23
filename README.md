@@ -1,17 +1,17 @@
-## Main Data for the Competition
+## Code Guidelines
 
-The legal corpus is provided in the file `alqac25_law.json`.  
-Training data for Task 1 (Legal Document Retrieval) and Task 2 (Legal Question Answering) is available in `alqac25_train.json`.
+This section provides an overview of the code for each task.
 
-## Additional Data for Task 1
-The additional data for Task 1, which is sponsored by Zalo, is in the folder `additional_data/zalo`. It is optional to use this data to train your models.
+### Task 1: Legal Document Retrieval
 
-## Restriction
-In the spirit of fostering open research and reproducibility, participating teams are permitted to use any publicly available resources intended for the research community. This includes online legal databases such as vbpl.vn and open-weight large language models (LLMs) like LLaMA-3.
+- `preprocessing.ipynb`: This notebook contains the code for preprocessing the legal documents.
+- `indexing.ipynb`: This notebook demonstrates how to index the preprocessed legal documents for efficient retrieval.
+- `finetuning_embedding.ipynb`: This notebook shows the process of fine-tuning embedding models for better retrieval performance.
 
-However, the following restrictions apply:
-- The use of **closed or proprietary systems**—such as ChatGPT, GPT-4, Claude, Gemini, or any other non-open models—is strictly prohibited.
-- To ensure fairness and accessibility, only **open-weight models with fewer than 10 billion parameters** are allowed. This encourages efficient, resource-conscious approaches and levels the playing field for teams with limited computational resources.
-- While **online legal databases** are permitted, the use of **externally annotated datasets** specifically created for **legal question answering** or **legal entailment** (e.g., labeled QA pairs or entailment examples) is **not allowed**.
+### Task 2: Legal Question Answering
 
-Any results obtained in violation of these rules will be disregarded in the final team ranking.
+- `task2_baseline.ipynb`: This notebook provides a baseline solution for the legal question answering task.
+- `prompts_TOT.json`: This file contains prompts used for the Tree-of-Thought approach.
+- `prompts_vn.json`: This file contains prompts in Vietnamese.
+
+Please refer to the `technical_report.md` for a detailed description of the submissions.
