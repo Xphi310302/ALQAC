@@ -14,4 +14,4 @@ This section provides an overview of the code for each task.
 - `prompts_TOT.json`: This file contains prompts used for the Tree-of-Thought approach.
 - `prompts_vn.json`: This file contains prompts in Vietnamese for zero shot prompting.
 
-Please refer to the `technical_report.md` for a detailed description of the submissions.
+Please refer to the [technical report](technical_report.md) for a detailed description of the submissions.
