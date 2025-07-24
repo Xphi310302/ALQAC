@@ -12,6 +12,6 @@ This section provides an overview of the code for each task.
 
 - `task2_baseline.ipynb`: This notebook provides a baseline solution for the legal question answering task.
 - `prompts_TOT.json`: This file contains prompts used for the Tree-of-Thought approach.
-- `prompts_vn.json`: This file contains prompts in Vietnamese.
+- `prompts_vn.json`: This file contains prompts in Vietnamese for zero shot prompting.
 
 Please refer to the `technical_report.md` for a detailed description of the submissions.

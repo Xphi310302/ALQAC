@@ -5,12 +5,17 @@ build/
 dist/
 wheels/
 *.egg-info
+.vscode
 
 # Virtual environments
 .venv
 models
 qdrant
-ALQAC_2025_data
+ALQAC_2025_data/*
+evaluation
+evalution_task2
+output
+results
 .env
 
 *.log
