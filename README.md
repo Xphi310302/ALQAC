@@ -1,6 +1,6 @@
 ## Code Guidelines
 
-This section provides an overview of the code for each task.
+This section provides an overview of the code of ABCD team for ALQAC shared tasks.
 
 ### Task 1: Legal Document Retrieval
 
