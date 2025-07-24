@@ -1,6 +1,6 @@
 # Technical Report
 
-## Task 1: 
+## Task 1: Retrieval
 Our approach involves preprocessing the legal corpus and indexing it into a Qdrant vector database using a custom-finetuned embedding model. For retrieval, we employ a hybrid search strategy combining dense vector search with sparse keyword matching, followed by a reranking step to refine the final results.
 
 - **Submission File Name:** `task1_phi010402-finetune-alqac-question-generation-3_new.json`
@@ -12,7 +12,7 @@ Our approach involves preprocessing the legal corpus and indexing it into a Qdra
 - **Submission File Name:** `task1_truro7-vn-law-embedding_new.json`
   - **Description:** The embedding model is `truro7/vn-law-embedding`, a Vietnamese text embedding model designed for Retrieval-Augmented Generation (RAG), specifically to retrieve precise legal documents in response to legal questions.
 
-## Task 2: 
+## Task 2: Question Answering
 Our solution for legal question answering uses 3 models (Qwen2.5, Llama, Gemma) with a Tree-of-Thought prompting strategy from `prompts_TOT.json`. This guides the model to reason step-by-step, adapting to various question types to ensure accurate and well-supported answers.
 
 - **Submission File Name:** `inferece_task_2_TOT_Llama_ensemble.json`
